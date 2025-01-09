@@ -1,0 +1,347 @@
+[09Jan2025 00:00:00.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> puta
+[09Jan2025 00:00:02.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> puta
+[09Jan2025 00:00:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * JayJayCbee es broma
+[09Jan2025 00:00:49.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[09Jan2025 00:00:49.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[09Jan2025 00:01:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Getting an Upgrade]
+[09Jan2025 00:02:49.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer_ECU lost connection: Disconnected
+[09Jan2025 00:02:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU left the game
+[09Jan2025 00:08:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has reached the goal [Feelingwatched]
+[09Jan2025 00:16:12.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[09Jan2025 00:16:12.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[09Jan2025 00:18:55.426] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10dea5ba
+[09Jan2025 00:18:55.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Killer_ECU[/127.118.138.181:49655] logged in with entity id 16197 at (-7.647576037616441, 68.0, -125.41792046163967)
+[09Jan2025 00:18:55.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU joined the game
+[09Jan2025 00:18:55.489] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Killer_ECU'.
+[09Jan2025 00:26:50.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/269, l='ServerLevel[world]', x=-64.30, y=70.00, z=-209.70] died, message: 'Cleric was slain by Zombie'
+[09Jan2025 00:28:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa blew up
+[09Jan2025 00:28:58.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU blew up
+[09Jan2025 00:30:10.732] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44799140
+[09Jan2025 00:30:10.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:44293] logged in with entity id 17882 at (1.5619294035125864, 65.5, -181.94175018769812)
+[09Jan2025 00:30:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[09Jan2025 00:30:10.782] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[09Jan2025 00:30:17.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[09Jan2025 00:30:17.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[09Jan2025 00:34:07.568] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e98ef5e
+[09Jan2025 00:34:07.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:44145] logged in with entity id 19081 at (1.386876422573086, 68.162141421027, -182.87159849076318)
+[09Jan2025 00:34:07.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[09Jan2025 00:34:07.628] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[09Jan2025 00:35:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was slain by Iron Golem
+[09Jan2025 00:36:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Isn't It Iron Pick]
+[09Jan2025 00:36:26.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[09Jan2025 00:36:45.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3945ms or 78 ticks behind
+[09Jan2025 00:38:31.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Diamonds!]
+[09Jan2025 00:40:33.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17557, l='ServerLevel[world]', x=-46.48, y=68.00, z=-191.92] died, message: 'Villager was slain by Zombie'
+[09Jan2025 00:43:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU has made the advancement [Diamonds!]
+[09Jan2025 00:48:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU has made the advancement [Not Today, Thank You]
+[09Jan2025 00:51:18.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[09Jan2025 00:51:18.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[09Jan2025 00:53:46.885] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27549f6e
+[09Jan2025 00:53:46.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:42871] logged in with entity id 27304 at (1.1929424917521585, 63.0, -135.0024327399218)
+[09Jan2025 00:53:46.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[09Jan2025 00:53:46.935] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[09Jan2025 00:55:35.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU has made the advancement [Ice Bucket Challenge]
+[09Jan2025 00:55:47.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [Ice Bucket Challenge]
+[09Jan2025 00:56:26.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU has made the advancement [Hot Stuff]
+[09Jan2025 00:58:51.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Suit Up]
+[09Jan2025 01:00:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [We Need to Go Deeper]
+[09Jan2025 01:00:49.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[09Jan2025 01:00:57.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [We Need to Go Deeper]
+[09Jan2025 01:01:00.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU has made the advancement [We Need to Go Deeper]
+[09Jan2025 01:01:14.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10059ms or 201 ticks behind
+[09Jan2025 01:18:31.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! 0.6889529221634092,-0.7539862017387691,-10.160198028800153
+[09Jan2025 01:18:32.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa was kicked for floating too long!
+[09Jan2025 01:18:32.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Flying is not enabled on this server
+[09Jan2025 01:18:32.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[09Jan2025 01:18:32.333] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 01:18:44.335] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ebc664
+[09Jan2025 01:18:44.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:53415] logged in with entity id 31409 at (-52.31191773753331, 128.79673560066868, -52.13499450776777)
+[09Jan2025 01:18:44.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[09Jan2025 01:18:44.388] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[09Jan2025 01:19:56.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! 10.155125008435547,-1.1309064997145128,0.32990567774658075
+[09Jan2025 01:20:17.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[09Jan2025 01:21:16.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! 0.20025917307239638,0.880039138572954,-10.187853488218138
+[09Jan2025 01:21:20.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa was kicked for floating too long!
+[09Jan2025 01:21:20.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Flying is not enabled on this server
+[09Jan2025 01:21:20.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[09Jan2025 01:21:20.482] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 01:21:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU has completed the challenge [Hot Tourist Destinations]
+[09Jan2025 01:21:27.542] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10f0b8bd
+[09Jan2025 01:21:27.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:33761] logged in with entity id 32055 at (168.79453373432818, 128.6747999789953, -454.54106544181155)
+[09Jan2025 01:21:27.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[09Jan2025 01:21:27.576] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[09Jan2025 01:21:45.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has completed the challenge [Hot Tourist Destinations]
+[09Jan2025 01:21:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has completed the challenge [Hot Tourist Destinations]
+[09Jan2025 01:22:19.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4071ms or 81 ticks behind
+[09Jan2025 01:22:42.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[09Jan2025 01:23:07.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer_ECU lost connection: Disconnected
+[09Jan2025 01:23:07.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU left the game
+[09Jan2025 01:23:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU has died of cowardice
+[09Jan2025 01:23:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Hot Stuff]
+[09Jan2025 01:23:52.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Ice Bucket Challenge]
+[09Jan2025 01:26:12.738] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70fb362a
+[09Jan2025 01:26:12.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Killer_ECU[/127.118.138.181:51167] logged in with entity id 32718 at (272.31372286120853, 128.0, -465.6729403818635)
+[09Jan2025 01:26:12.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU joined the game
+[09Jan2025 01:26:12.769] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Killer_ECU'.
+[09Jan2025 01:28:05.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[09Jan2025 01:28:26.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5954ms or 119 ticks behind
+[09Jan2025 01:28:47.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6224ms or 124 ticks behind
+[09Jan2025 01:29:07.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4690ms or 93 ticks behind
+[09Jan2025 01:29:28.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6536ms or 130 ticks behind
+[09Jan2025 01:29:46.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3467ms or 69 ticks behind
+[09Jan2025 01:30:06.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[09Jan2025 01:30:24.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[09Jan2025 01:30:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU was slain by Enderman
+[09Jan2025 01:31:17.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[09Jan2025 01:31:35.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[09Jan2025 01:32:12.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[09Jan2025 01:32:17.518] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@769981a5
+[09Jan2025 01:32:17.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.93.206.93:54275] logged in with entity id 35669 at (-32.61791521687457, 69.0, -84.63564267953133)
+[09Jan2025 01:32:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[09Jan2025 01:32:17.557] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[09Jan2025 01:32:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Cover Me with Diamonds]
+[09Jan2025 01:32:32.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[09Jan2025 01:32:36.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> que fue
+[09Jan2025 01:32:52.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5544ms or 110 ticks behind
+[09Jan2025 01:32:54.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
+[09Jan2025 01:32:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[09Jan2025 01:32:56.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> Ya nos tenemosq ir de ahi x el aaron y el dorian
+[09Jan2025 01:33:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> ok
+[09Jan2025 01:33:20.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09Jan2025 01:34:02.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> ya estan diamantes?
+[09Jan2025 01:34:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> yo si
+[09Jan2025 01:34:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> y pasen cords
+[09Jan2025 01:34:14.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> metete en ese portal de ahi
+[09Jan2025 01:34:18.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> tienes diamantes que me regales para una pechera
+[09Jan2025 01:34:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> ?
+[09Jan2025 01:34:30.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> estamos en 2183 -3668
+[09Jan2025 01:34:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> en el nether?
+[09Jan2025 01:34:43.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee has made the advancement [We Need to Go Deeper]
+[09Jan2025 01:34:43.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> fuimos por ahi
+[09Jan2025 01:34:43.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[09Jan2025 01:34:52.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> anda con el ariel
+[09Jan2025 01:34:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> hacia donde
+[09Jan2025 01:35:03.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
+[09Jan2025 01:35:07.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> entonces apago el portal?
+[09Jan2025 01:35:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> es que me mori estoy consiguiendo enderpearl
+[09Jan2025 01:35:44.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Jan2025 01:35:52.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> tienen aldea?
+[09Jan2025 01:35:56.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> no
+[09Jan2025 01:36:06.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6957ms or 139 ticks behind
+[09Jan2025 01:36:24.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Jan2025 01:36:44.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5287ms or 105 ticks behind
+[09Jan2025 01:37:05.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6213ms or 124 ticks behind
+[09Jan2025 01:37:31.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10446ms or 208 ticks behind
+[09Jan2025 01:37:56.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10287ms or 205 ticks behind
+[09Jan2025 01:38:27.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15575ms or 311 ticks behind
+[09Jan2025 01:39:12.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer_ECU lost connection: Disconnected
+[09Jan2025 01:39:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU left the game
+[09Jan2025 01:39:13.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! 9.458153159565882,-0.3693736602695026,3.4401276338512616
+[09Jan2025 01:39:18.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36759ms or 735 ticks behind
+[09Jan2025 01:39:22.061] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67b0de0
+[09Jan2025 01:39:22.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Killer_ECU[/127.118.138.181:36275] logged in with entity id 40064 at (7.1762070889586385, 52.0, 30.088348731419757)
+[09Jan2025 01:39:22.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU joined the game
+[09Jan2025 01:39:22.078] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Killer_ECU'.
+[09Jan2025 01:39:39.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6220ms or 124 ticks behind
+[09Jan2025 01:40:04.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9936ms or 198 ticks behind
+[09Jan2025 01:40:28.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8994ms or 179 ticks behind
+[09Jan2025 01:40:36.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543586854670593,0.0,-8.083403567450091
+[09Jan2025 01:40:45.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! 5.064387712315238,-2.0230881091015505,8.44192843691826
+[09Jan2025 01:40:50.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.293369074951897,0.0,-7.774305310157956
+[09Jan2025 01:40:50.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.53385103440462,0.0,-8.071376743932774
+[09Jan2025 01:40:50.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.775452439927676,0.0,-8.369831048380888
+[09Jan2025 01:40:50.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.018061346887407,0.0,-8.669529936401887
+[09Jan2025 01:40:55.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.5432327837871185,0.0,-8.082966177696562
+[09Jan2025 01:40:55.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.794906755576164,0.0,-8.393863293693698
+[09Jan2025 01:40:55.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.046580971935157,0.0,-8.704760711812241
+[09Jan2025 01:40:55.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.2982554084069875,0.0,-9.015658401839914
+[09Jan2025 01:40:55.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.54993004298052,0.0,-9.326556336585895
+[09Jan2025 01:40:55.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.801604855845483,0.0,-9.637454491578296
+[09Jan2025 01:40:55.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.053279829172709,0.0,-9.948352844792566
+[09Jan2025 01:40:55.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.304954946915984,0.0,-10.259251376406382
+[09Jan2025 01:41:04.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543586854674686,0.0,-8.083403567455775
+[09Jan2025 01:41:04.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795263272162174,0.0,-8.394303704665617
+[09Jan2025 01:41:04.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.046939689649662,0.0,-8.70520384187546
+[09Jan2025 01:41:04.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.29861610713715,0.0,-9.016103979085301
+[09Jan2025 01:41:04.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.550292524624638,0.0,-9.327004116295143
+[09Jan2025 01:41:12.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28319ms or 566 ticks behind
+[09Jan2025 01:41:16.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> estoy llendo a las cords que mando el dylan
+[09Jan2025 01:41:22.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> por el nether?
+[09Jan2025 01:41:32.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> por el overworld
+[09Jan2025 01:41:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> XDDD
+[09Jan2025 01:41:41.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14587ms or 291 ticks behind
+[09Jan2025 01:41:46.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> mas facil crack
+[09Jan2025 01:41:54.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543582365809698,0.0,-8.083398022284086
+[09Jan2025 01:41:54.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.79525875229092,0.0,-8.394298121191355
+[09Jan2025 01:41:54.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.0469351418728365,0.0,-8.70519822392896
+[09Jan2025 01:41:54.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.29861153424531,0.0,-9.016098330113778
+[09Jan2025 01:42:00.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543378883594869,0.0,-8.083146657261295
+[09Jan2025 01:42:00.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795053864549345,0.0,-8.394045019897476
+[09Jan2025 01:42:00.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.046728989157145,0.0,-8.70494355999108
+[09Jan2025 01:42:00.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.298404243052914,0.0,-9.015842259796273
+[09Jan2025 01:42:00.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.550079613307844,0.0,-9.326741103342101
+[09Jan2025 01:42:00.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.801755088286086,0.0,-9.637640076254229
+[09Jan2025 01:42:00.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! 7.339485846697698,-0.25799910351527444,7.01153324153438
+[09Jan2025 01:42:00.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.053430657515264,0.0,-9.94853916559623
+[09Jan2025 01:42:00.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.305106311570285,0.0,-10.259438359724982
+[09Jan2025 01:42:05.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.5435868491517795,0.0,-8.083403560632632
+[09Jan2025 01:42:05.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795263266601182,0.0,-8.394303697795294
+[09Jan2025 01:42:12.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543586854674686,0.0,-8.083403567458845
+[09Jan2025 01:42:12.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795263272162174,0.0,-8.3943037046688
+[09Jan2025 01:42:12.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.046939689649662,0.0,-8.705203841878756
+[09Jan2025 01:42:12.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.29861610713715,0.0,-9.016103979088712
+[09Jan2025 01:42:12.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.550292524624638,0.0,-9.327004116298667
+[09Jan2025 01:42:12.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.801968942112126,0.0,-9.637904253508623
+[09Jan2025 01:42:12.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.053645359599614,0.0,-9.948804390718578
+[09Jan2025 01:42:12.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.305321777087102,0.0,-10.259704527928534
+[09Jan2025 01:42:12.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.55699819457459,0.0,-10.57060466513849
+[09Jan2025 01:42:12.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.808674612062077,0.0,-10.881504802348445
+[09Jan2025 01:42:12.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! 8.280659992969959,-6.14644267976378,0.07125064316642238
+[09Jan2025 01:42:12.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.060351029549565,0.0,-11.1924049395584
+[09Jan2025 01:42:12.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.312027447037053,0.0,-11.503305076768356
+[09Jan2025 01:42:12.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.563703864524541,0.0,-11.814205213978312
+[09Jan2025 01:42:12.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.815380282012029,0.0,-12.125105351188267
+[09Jan2025 01:42:12.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.067056699499517,0.0,-12.436005488398223
+[09Jan2025 01:42:12.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.318733116987005,0.0,-12.746905625608179
+[09Jan2025 01:42:12.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.570409534474493,0.0,-13.057805762818134
+[09Jan2025 01:42:22.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! 4.633333947155279,-1.8378585789729982,9.013234554764495
+[09Jan2025 01:42:25.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! 1.15534079738336,-1.1661092609382138,9.898504531025537
+[09Jan2025 01:42:28.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> yo siento a el server lag y tengo todas las barritas y ustedes?
+[09Jan2025 01:42:31.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35180ms or 703 ticks behind
+[09Jan2025 01:42:34.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> en efecto
+[09Jan2025 01:42:36.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543570960535021,0.0,-8.083383933155574
+[09Jan2025 01:42:36.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795247268235812,0.0,-8.394283934743953
+[09Jan2025 01:42:36.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.046923586915341,0.0,-8.70518394989449
+[09Jan2025 01:42:36.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.29859991547562,0.0,-9.016083977251128
+[09Jan2025 01:42:36.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.550276252928597,0.0,-9.326984015593098
+[09Jan2025 01:42:36.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.801952598385128,0.0,-9.63788406382173
+[09Jan2025 01:42:36.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.053628951044743,0.0,-9.94878412094863
+[09Jan2025 01:42:36.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.305305310187123,0.0,-10.259684186083632
+[09Jan2025 01:42:36.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.556981675164025,0.0,-10.570584258426152
+[09Jan2025 01:42:39.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> quiero hacer reset de server
+[09Jan2025 01:42:50.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> mejor jugemos el otro server con mas mods
+[09Jan2025 01:42:56.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> ese era cheverisimo
+[09Jan2025 01:43:00.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13969ms or 279 ticks behind
+[09Jan2025 01:43:04.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer_ECU moved too quickly! -1.0,-10.342366735053567,0.57355636574108
+[09Jan2025 01:43:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU tried to swim in lava
+[09Jan2025 01:43:17.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * JayJayCbee intento nadar en lava
+[09Jan2025 01:43:23.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.5344574508379765,0.0,-8.07212586041419
+[09Jan2025 01:43:23.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.7860708081601615,0.0,-8.382948098334737
+[09Jan2025 01:43:23.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.037690471500355,0.0,-8.69377812618609
+[09Jan2025 01:43:23.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.289315810256653,0.0,-9.004615164974894
+[09Jan2025 01:43:26.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer_ECU moved too quickly! 1.6026316930509985,-0.6306263397304974,-10.19267320387084
+[09Jan2025 01:43:26.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! -9.838816234086153,0.001335979112141672,2.535508406993358
+[09Jan2025 01:43:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> xd
+[09Jan2025 01:43:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> si puse cama
+[09Jan2025 01:43:34.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18916ms or 378 ticks behind
+[09Jan2025 01:43:38.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> lo bueno tenia una cama en mi inv
+[09Jan2025 01:43:43.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> no perdi mis cosas
+[09Jan2025 01:43:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> jay jay pon otra vez el portal
+[09Jan2025 01:43:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> no lo apage
+[09Jan2025 01:44:05.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543586806392568,0.0,-8.083403507811909
+[09Jan2025 01:44:05.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795263223546613,0.0,-8.394303644609863
+[09Jan2025 01:44:05.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.046939640733967,0.0,-8.705203781448972
+[09Jan2025 01:44:05.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.298616057951335,0.0,-9.016103918325143
+[09Jan2025 01:44:05.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.550292475195761,0.0,-9.327004055234738
+[09Jan2025 01:44:05.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! -9.95214107427455,0.0,-2.472360229138303
+[09Jan2025 01:44:05.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.801968892464515,0.0,-9.637904192174346
+[09Jan2025 01:44:05.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.053645309755098,0.0,-9.948804329141012
+[09Jan2025 01:44:05.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.305321727065348,0.0,-10.259704466132007
+[09Jan2025 01:44:05.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.556998144393333,0.0,-10.57060460314483
+[09Jan2025 01:44:05.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.808674561737234,0.0,-10.881504740177434
+[09Jan2025 01:44:05.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.060350979095574,0.0,-11.192404877227773
+[09Jan2025 01:44:05.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.31202739646676,0.0,-11.503305014294028
+[09Jan2025 01:44:05.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.563703813849656,0.0,-11.814205151374608
+[09Jan2025 01:44:05.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.815380231243012,0.0,-12.125105288468149
+[09Jan2025 01:44:05.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.067056648645803,0.0,-12.436005425573285
+[09Jan2025 01:44:05.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.318733066057007,0.0,-12.74690556268888
+[09Jan2025 01:44:05.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.570409483475828,0.0,-13.057805699814026
+[09Jan2025 01:44:07.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.54358685445186,0.0,-8.08340356717963
+[09Jan2025 01:44:07.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795263271937756,0.0,-8.39430370438754
+[09Jan2025 01:44:07.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.04693968942388,0.0,-8.705203841595676
+[09Jan2025 01:44:07.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.298616106910231,0.0,-9.01610397880404
+[09Jan2025 01:44:07.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.550292524396582,0.0,-9.327004116012404
+[09Jan2025 01:44:07.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! -8.027768712237048,1.1767592750642422,-6.1782505115543245
+[09Jan2025 01:44:07.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.80196894188316,0.0,-9.637904253220995
+[09Jan2025 01:44:07.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.053645359369739,0.0,-9.948804390429814
+[09Jan2025 01:44:07.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.305321776856545,0.0,-10.259704527638632
+[09Jan2025 01:44:07.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.55699819434335,0.0,-10.570604664847679
+[09Jan2025 01:44:07.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.808674611830156,0.0,-10.881504802056725
+[09Jan2025 01:44:07.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.06035102931719,0.0,-11.19240493926577
+[09Jan2025 01:44:07.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.312027446804223,0.0,-11.503305076475044
+[09Jan2025 01:44:10.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.543586854674459,0.0,-8.083403567453615
+[09Jan2025 01:44:10.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 6.795263272161947,0.0,-8.394303704663571
+[09Jan2025 01:44:10.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.0469396896494345,0.0,-8.705203841873526
+[09Jan2025 01:44:10.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.298616107136922,0.0,-9.016103979083482
+[09Jan2025 01:44:10.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.55029252462441,0.0,-9.327004116293438
+[09Jan2025 01:44:10.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.801968942111898,0.0,-9.637904253503393
+[09Jan2025 01:44:10.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.053645359599386,0.0,-9.948804390713349
+[09Jan2025 01:44:10.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.305321777086874,0.0,-10.259704527923304
+[09Jan2025 01:44:10.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.556998194574362,0.0,-10.57060466513326
+[09Jan2025 01:44:10.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.80867461206185,0.0,-10.881504802343215
+[09Jan2025 01:44:10.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.060351029549338,0.0,-11.192404939553171
+[09Jan2025 01:44:10.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.312027447036826,0.0,-11.503305076763127
+[09Jan2025 01:44:10.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.563703864524314,0.0,-11.814205213973082
+[09Jan2025 01:44:10.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.815380282011802,0.0,-12.125105351183038
+[09Jan2025 01:44:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> no me asoma en el overworld
+[09Jan2025 01:44:15.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26206ms or 524 ticks behind
+[09Jan2025 01:44:16.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> voy a hacer reset de server
+[09Jan2025 01:44:21.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> esta bien lag
+[09Jan2025 01:44:21.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> no
+[09Jan2025 01:44:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> si
+[09Jan2025 01:44:27.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> mejor jugemos el otrow
+[09Jan2025 01:44:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ?
+[09Jan2025 01:44:40.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> ya borre
+[09Jan2025 01:44:42.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> el de zombies
+[09Jan2025 01:44:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> chuta
+[09Jan2025 01:44:44.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13946ms or 278 ticks behind
+[09Jan2025 01:44:48.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.687581075774915,0.0,-6.945436462414818
+[09Jan2025 01:44:48.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.987952963902444,0.0,-7.209161089464942
+[09Jan2025 01:44:56.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 moved too quickly! -9.351076200613988,3.4129092804170114,-1.9960473130936407
+[09Jan2025 01:44:59.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> hagamos uno nuevo con los mismos mods
+[09Jan2025 01:45:02.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> ese era chevere
+[09Jan2025 01:45:11.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 7.844276334753658,0.0,-6.8284084882614025
+[09Jan2025 01:45:11.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.14597939449095,0.0,-7.0910396917181515
+[09Jan2025 01:45:11.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.447682456937855,0.0,-7.353670897533675
+[09Jan2025 01:45:11.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 8.74938552182357,0.0,-7.616302105472187
+[09Jan2025 01:45:11.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.051088588904122,0.0,-7.878933315321319
+[09Jan2025 01:45:11.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.352791657960097,0.0,-8.141564526890079
+[09Jan2025 01:45:11.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.654494728793907,0.0,-8.404195740006344
+[09Jan2025 01:45:11.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 9.956197801227745,0.0,-8.6668269545155
+[09Jan2025 01:45:11.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.25790087510154,0.0,-8.929458170278167
+[09Jan2025 01:45:11.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.559603950271594,0.0,-9.192089387169062
+[09Jan2025 01:45:11.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 10.861307026608074,0.0,-9.454720605075408
+[09Jan2025 01:45:11.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JayJayCbee) moved too quickly! 11.163010103994338,0.0,-9.71735182389557
+[09Jan2025 01:45:11.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> q verga no entendiste nada de lo q dijimos?
+[09Jan2025 01:45:18.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18900ms or 378 ticks behind
+[09Jan2025 01:45:18.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> de q?
+[09Jan2025 01:45:34.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> oye jay prende el portal
+[09Jan2025 01:45:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> q no vale ya pq anda muy lag y no todos podemos jugar
+[09Jan2025 01:45:40.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6996ms or 139 ticks behind
+[09Jan2025 01:45:59.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> creemos uno con los mods de los zombies pero en aternos
+[09Jan2025 01:46:01.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5464ms or 109 ticks behind
+[09Jan2025 01:46:05.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> que no gay
+[09Jan2025 01:46:09.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> porque???
+[09Jan2025 01:46:11.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> prende el portal
+[09Jan2025 01:46:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> osea esta anda lag y el otro tmv
+[09Jan2025 01:46:17.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> DUERMAAAAN
+[09Jan2025 01:46:19.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> no estoy en la aldea
+[09Jan2025 01:46:23.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7682ms or 153 ticks behind
+[09Jan2025 01:46:40.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[09Jan2025 01:46:48.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> Estoy lejasos de la aldea
+[09Jan2025 01:46:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> pq no te fuiste por el nether
+[09Jan2025 01:47:00.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4727ms or 94 ticks behind
+[09Jan2025 01:47:21.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5743ms or 114 ticks behind
+[09Jan2025 01:47:28.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> xq no quise y no eran cords del nether eran cords del overworld
+[09Jan2025 01:47:42.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6362ms or 127 ticks behind
+[09Jan2025 01:47:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> y no apague el portal
+[09Jan2025 01:48:01.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4370ms or 87 ticks behind
+[09Jan2025 01:48:04.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Killer_ECU> si pero te ibas por el nether al portal que hicimos lejasos
+[09Jan2025 01:48:20.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3962ms or 79 ticks behind
+[09Jan2025 01:48:32.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jan2025 01:48:32.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jan2025 01:48:32.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Server closed
+[09Jan2025 01:48:32.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[09Jan2025 01:48:32.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer_ECU lost connection: Server closed
+[09Jan2025 01:48:32.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killer_ECU left the game
+[09Jan2025 01:48:32.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
