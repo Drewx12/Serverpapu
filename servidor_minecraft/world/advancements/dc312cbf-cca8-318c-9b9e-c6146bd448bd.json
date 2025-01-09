@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-09 19:31:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diving_board": {
     "criteria": {
       "has_wheat": "2025-01-09 01:47:09 +0000"
@@ -407,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-09 19:34:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-01-08 23:33:37 +0000"
@@ -464,6 +476,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-09 01:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-09 19:31:33 +0000"
     },
     "done": true
   },
@@ -545,6 +563,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-08 23:37:55 +0000"
@@ -554,6 +578,12 @@
   "securitycraft:recipes/securitycraft/furnace_mine": {
     "criteria": {
       "has_mine": "2025-01-08 23:58:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
     },
     "done": true
   },
@@ -584,6 +614,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-08 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-09 19:31:33 +0000"
     },
     "done": true
   },
@@ -623,6 +659,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-01-08 23:26:19 +0000"
@@ -633,6 +675,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-09 00:48:21 +0000",
       "minecraft:spider": "2025-01-08 23:29:16 +0000",
+      "minecraft:creeper": "2025-01-09 19:35:08 +0000",
       "minecraft:enderman": "2025-01-09 01:06:20 +0000",
       "minecraft:zombie": "2025-01-08 23:46:46 +0000",
       "minecraft:drowned": "2025-01-09 00:28:30 +0000"
@@ -783,6 +826,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-08 23:54:44 +0000"
@@ -867,6 +916,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 23:33:37 +0000"
@@ -909,6 +964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-09 19:38:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-01-08 23:26:19 +0000"
@@ -930,6 +991,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-08 23:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 19:40:12 +0000"
     },
     "done": true
   },
@@ -957,6 +1024,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-09 19:34:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2025-01-08 23:33:37 +0000"
@@ -966,6 +1045,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 23:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-09 19:31:33 +0000"
     },
     "done": true
   },
@@ -1158,6 +1243,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-08 23:45:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:40:12 +0000"
     },
     "done": true
   },
@@ -1663,6 +1754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-09 19:34:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-08 23:40:17 +0000"
@@ -1759,6 +1856,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-09 00:43:58 +0000"
@@ -1825,6 +1928,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-01-08 23:33:37 +0000"
@@ -1885,6 +1994,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_crate": {
     "criteria": {
       "has_log": "2025-01-09 01:42:33 +0000"
@@ -1915,6 +2030,12 @@
   "cfm:recipes/cfm/acacia_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-08 23:25:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
     },
     "done": true
   },
@@ -1957,6 +2078,12 @@
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-08 23:40:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-09 19:34:51 +0000"
     },
     "done": true
   },
@@ -2119,6 +2246,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-09 00:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-09 19:31:33 +0000"
     },
     "done": true
   },
@@ -2332,6 +2465,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/lapis_mine": {
     "criteria": {
       "has_mine": "2025-01-08 23:58:47 +0000"
@@ -2371,6 +2510,12 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-01-08 23:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-09 19:31:33 +0000"
     },
     "done": true
   },
@@ -2632,6 +2777,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-08 23:30:07 +0000"
@@ -2734,6 +2885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_chair": {
     "criteria": {
       "has_log": "2025-01-09 01:42:33 +0000"
@@ -2761,6 +2918,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-08 23:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-09 19:31:33 +0000"
     },
     "done": true
   },
@@ -2797,6 +2960,12 @@
   "cfm:recipes/cfm/warped_blinds": {
     "criteria": {
       "has_log": "2025-01-09 01:42:33 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2025-01-09 19:33:12 +0000"
     },
     "done": true
   },
@@ -3007,6 +3176,12 @@
   "cfm:recipes/cfm/stripped_warped_table": {
     "criteria": {
       "has_planks": "2025-01-09 01:42:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-09 19:40:12 +0000"
     },
     "done": true
   },
