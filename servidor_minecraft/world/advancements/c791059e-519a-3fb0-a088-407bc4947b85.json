@@ -755,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-01-08 23:59:13 +0000"
@@ -1000,6 +1006,12 @@
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2025-01-09 02:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
     },
     "done": true
   },
@@ -2399,6 +2411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-09 19:47:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-01-08 22:59:30 +0000"
@@ -2452,6 +2470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-08 22:34:17 +0000"
@@ -2479,6 +2503,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 23:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
     },
     "done": true
   },
@@ -3184,6 +3214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-09 19:47:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-01-08 23:30:54 +0000"
@@ -3460,6 +3496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-08 22:47:40 +0000"
@@ -3589,6 +3631,12 @@
   "cfm:recipes/cfm/acacia_chair": {
     "criteria": {
       "has_log": "2025-01-08 22:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
     },
     "done": true
   },
@@ -3796,6 +3844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 23:21:27 +0000"
@@ -3826,6 +3880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-09 19:39:04 +0000"
@@ -3847,6 +3907,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-01-08 22:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-09 19:58:52 +0000"
     },
     "done": true
   },
