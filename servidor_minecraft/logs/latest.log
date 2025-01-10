@@ -231,3 +231,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jan2025 20:18:46.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:47899] logged in with entity id 25184 at (2266.2614804891095, 80.0, -2339.699999988079)
 [10Jan2025 20:18:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
 [10Jan2025 20:18:46.563] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[10Jan2025 20:21:19.676] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57ad235f
+[10Jan2025 20:21:19.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.64.143.38:47365] logged in with entity id 26349 at (2235.5, 64.0, -2387.5)
+[10Jan2025 20:21:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[10Jan2025 20:21:19.748] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[10Jan2025 20:23:42.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [A Terrible Fortress]
+[10Jan2025 20:23:53.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
+[10Jan2025 20:23:53.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[10Jan2025 20:25:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [Into Fire]
+[10Jan2025 20:25:22.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [A Terrible Fortress]
+[10Jan2025 20:25:31.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[10Jan2025 20:25:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[10Jan2025 20:26:14.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22673, l='ServerLevel[world]', x=2307.77, y=45.00, z=-2268.59] died, message: 'Villager was slain by Zombie'
+[10Jan2025 20:26:46.534] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@939808a
+[10Jan2025 20:26:46.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:53835] logged in with entity id 28935 at (200.30000001192093, 65.0, -452.07499998807907)
+[10Jan2025 20:26:46.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[10Jan2025 20:26:46.579] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[10Jan2025 20:27:29.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[10Jan2025 20:27:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[10Jan2025 20:27:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [We Need to Go Deeper]
+[10Jan2025 20:30:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Into Fire]
