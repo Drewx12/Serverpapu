@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-10 20:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-01-09 20:51:49 +0000"
@@ -548,6 +554,12 @@
   "cfm:recipes/cfm/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 19:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-10 20:02:01 +0000"
     },
     "done": true
   },
@@ -1983,6 +1995,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-10 20:02:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-01-09 20:38:10 +0000"
@@ -2637,6 +2655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-10 20:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-09 00:44:11 +0000"
@@ -2880,6 +2904,12 @@
   "cfm:recipes/cfm/red_cooler": {
     "criteria": {
       "has_chest": "2025-01-08 23:30:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-10 20:02:01 +0000"
     },
     "done": true
   },
@@ -5255,6 +5285,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-01-10 00:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-10 20:02:01 +0000"
     },
     "done": true
   },

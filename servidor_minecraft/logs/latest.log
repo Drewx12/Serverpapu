@@ -190,3 +190,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jan2025 19:59:00.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:48489] logged in with entity id 17533 at (2264.3318486873086, 80.0, -2346.987500011921)
 [10Jan2025 19:59:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
 [10Jan2025 19:59:00.895] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[10Jan2025 20:01:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> mateo
+[10Jan2025 20:01:02.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> discord
+[10Jan2025 20:01:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mateomiuR14> AMNDE
+[10Jan2025 20:01:05.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> mateo unete al discord
+[10Jan2025 20:01:50.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
+[10Jan2025 20:01:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[10Jan2025 20:01:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has died of cowardice
+[10Jan2025 20:02:05.527] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4bc621e6
+[10Jan2025 20:02:05.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:54507] logged in with entity id 18684 at (2353.0738300659496, 72.0, -2191.6665825534296)
+[10Jan2025 20:02:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[10Jan2025 20:02:05.640] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[10Jan2025 20:02:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [A Seedy Place]
+[10Jan2025 20:06:39.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by JayJayCbee
+[10Jan2025 20:07:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by TheHeist_xD
+[10Jan2025 20:09:56.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! 9.937857136110324,-0.5009966402674735,-1.9493015506982374
