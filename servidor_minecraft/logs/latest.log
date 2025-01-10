@@ -124,3 +124,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jan2025 19:11:24.130] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
 [10Jan2025 19:13:25.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [Ol' Betsy]
 [10Jan2025 19:13:25.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [Take Aim]
+[10Jan2025 19:32:29.439] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2241d237
+[10Jan2025 19:32:29.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:48947] logged in with entity id 6056 at (2255.690766688682, 101.5, -2422.99574716004)
+[10Jan2025 19:32:29.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[10Jan2025 19:32:29.519] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[10Jan2025 19:32:50.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa fell from a high place
+[10Jan2025 19:33:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa fell from a high place
+[10Jan2025 19:33:05.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa fell from a high place
+[10Jan2025 19:33:16.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa fell from a high place
+[10Jan2025 19:33:23.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa fell from a high place
+[10Jan2025 19:33:42.098] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c63bd33
+[10Jan2025 19:33:42.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.64.143.38:39625] logged in with entity id 7442 at (2314.8312557102104, 64.0, -2408.23354912771)
+[10Jan2025 19:33:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[10Jan2025 19:33:42.241] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[10Jan2025 19:35:52.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
+[10Jan2025 19:35:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[10Jan2025 19:36:05.905] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@633e874e
+[10Jan2025 19:36:05.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:36207] logged in with entity id 8052 at (2291.2005096970474, 80.0, -2218.025200181795)
+[10Jan2025 19:36:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[10Jan2025 19:36:06.057] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[10Jan2025 19:43:31.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[10Jan2025 19:45:48.750] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e3ead41
+[10Jan2025 19:45:48.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHeist_xD[/127.207.111.218:54621] logged in with entity id 11739 at (2264.2105556823713, 66.0, -2397.2228758678502)
+[10Jan2025 19:45:48.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD joined the game
+[10Jan2025 19:45:48.842] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'TheHeist_xD'.
+[10Jan2025 19:45:51.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[10Jan2025 19:47:28.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was slain by TheHeist_xD
