@@ -251,3 +251,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jan2025 20:27:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
 [10Jan2025 20:27:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [We Need to Go Deeper]
 [10Jan2025 20:30:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Into Fire]
+[10Jan2025 20:31:00.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Disconnected
+[10Jan2025 20:31:00.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[10Jan2025 20:35:20.144] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30f6452f
+[10Jan2025 20:35:20.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:60059] logged in with entity id 32516 at (2377.381281980134, 82.0625, -2205.648924075189)
+[10Jan2025 20:35:20.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[10Jan2025 20:35:20.213] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[10Jan2025 20:35:29.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[10Jan2025 20:35:29.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[10Jan2025 20:36:53.228] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7719f39
+[10Jan2025 20:36:53.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:51215] logged in with entity id 33138 at (2178.099645176217, 69.5, -2343.100030613937)
+[10Jan2025 20:36:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[10Jan2025 20:36:53.284] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[10Jan2025 20:37:45.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by JayJayCbee
+[10Jan2025 20:38:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by JayJayCbee
+[10Jan2025 20:38:05.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 moved wrongly!
+[10Jan2025 20:46:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Oh Shiny]
+[10Jan2025 20:48:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Piglin
+[10Jan2025 20:50:06.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> estan campeando mis cosas
+[10Jan2025 20:50:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> lo mato?
