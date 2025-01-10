@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-10 19:50:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-10 00:14:22 +0000"
@@ -440,6 +446,12 @@
   "cfm:recipes/cfm/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 22:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-10 19:50:10 +0000"
     },
     "done": true
   },
@@ -2370,6 +2382,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-08 23:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-10 19:50:10 +0000"
     },
     "done": true
   },

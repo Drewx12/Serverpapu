@@ -150,3 +150,43 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jan2025 19:45:48.842] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'TheHeist_xD'.
 [10Jan2025 19:45:51.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
 [10Jan2025 19:47:28.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was slain by TheHeist_xD
+[10Jan2025 19:50:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by TheHeist_xD
+[10Jan2025 19:51:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by TheHeist_xD
+[10Jan2025 19:51:58.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 moved wrongly!
+[10Jan2025 19:52:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was slain by TheHeist_xD
+[10Jan2025 19:54:18.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was slain by Pilin33
+[10Jan2025 19:54:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHeist_xD> y
+[10Jan2025 19:57:43.790] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f5b7d39
+[10Jan2025 19:57:43.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:60637] logged in with entity id 16981 at (2296.301108066335, 80.1212968405392, -2219.476709091538)
+[10Jan2025 19:57:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[10Jan2025 19:57:43.865] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[10Jan2025 19:57:46.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHeist_xD lost connection: Disconnected
+[10Jan2025 19:57:46.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD left the game
+[10Jan2025 19:57:50.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[10Jan2025 19:57:50.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[10Jan2025 19:58:02.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[10Jan2025 19:58:02.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[10Jan2025 19:58:11.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[10Jan2025 19:58:11.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[10Jan2025 19:58:22.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
+[10Jan2025 19:58:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[10Jan2025 19:58:25.176] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3bed895e
+[10Jan2025 19:58:25.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.64.143.38:42365] logged in with entity id 17176 at (2263.417410801504, 65.0, -2346.5292261017526)
+[10Jan2025 19:58:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[10Jan2025 19:58:25.249] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[10Jan2025 19:58:28.586] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@302267a7
+[10Jan2025 19:58:28.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:52973] logged in with entity id 17298 at (2258.776275437221, 68.1212968405392, -2299.501027037191)
+[10Jan2025 19:58:28.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[10Jan2025 19:58:28.762] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[10Jan2025 19:58:41.081] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8494baf
+[10Jan2025 19:58:41.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHeist_xD[/127.207.111.218:46249] logged in with entity id 17400 at (2277.6166584427488, 67.0, -2356.252813329433)
+[10Jan2025 19:58:41.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD joined the game
+[10Jan2025 19:58:41.147] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'TheHeist_xD'.
+[10Jan2025 19:58:45.536] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39d48fec
+[10Jan2025 19:58:45.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:53813] logged in with entity id 17421 at (2320.860647784831, 73.0, -2269.331636603923)
+[10Jan2025 19:58:45.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[10Jan2025 19:58:45.601] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[10Jan2025 19:59:00.787] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e67f7a0
+[10Jan2025 19:59:00.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:48489] logged in with entity id 17533 at (2264.3318486873086, 80.0, -2346.987500011921)
+[10Jan2025 19:59:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[10Jan2025 19:59:00.895] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
