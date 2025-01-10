@@ -205,3 +205,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jan2025 20:06:39.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by JayJayCbee
 [10Jan2025 20:07:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by TheHeist_xD
 [10Jan2025 20:09:56.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! 9.937857136110324,-0.5009966402674735,-1.9493015506982374
+[10Jan2025 20:12:00.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Timed out
+[10Jan2025 20:12:00.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[10Jan2025 20:12:00.074] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jan2025 20:12:25.940] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b183057
+[10Jan2025 20:12:25.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:46327] logged in with entity id 23011 at (2292.8329471512534, 74.0, -2220.307806530513)
+[10Jan2025 20:12:25.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[10Jan2025 20:12:26.021] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[10Jan2025 20:12:39.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! -9.340876966933592,0.25799910351527444,-3.863203782382243
+[10Jan2025 20:16:54.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[10Jan2025 20:16:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[10Jan2025 20:17:36.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> duerman
+[10Jan2025 20:17:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> DUERMAN
+[10Jan2025 20:18:02.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> PUTA DUERMAN CRACKSITOSS
+[10Jan2025 20:18:08.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21243, l='ServerLevel[world]', x=2265.55, y=66.00, z=-2421.69] died, message: 'Villager was slain by Zombie'
+[10Jan2025 20:18:11.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Timed out
+[10Jan2025 20:18:11.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[10Jan2025 20:18:23.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[10Jan2025 20:18:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[10Jan2025 20:18:32.281] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11e5eef3
+[10Jan2025 20:18:32.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:53621] logged in with entity id 25101 at (2307.5, 80.0625, -2218.5)
+[10Jan2025 20:18:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[10Jan2025 20:18:32.364] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[10Jan2025 20:18:46.503] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6eb8e80c
+[10Jan2025 20:18:46.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:47899] logged in with entity id 25184 at (2266.2614804891095, 80.0, -2339.699999988079)
+[10Jan2025 20:18:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[10Jan2025 20:18:46.563] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
