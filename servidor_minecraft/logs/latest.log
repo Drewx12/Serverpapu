@@ -159,3 +159,18 @@
 [11Jan2025 15:34:15.695] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
 [11Jan2025 15:34:54.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
 [11Jan2025 15:34:54.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[11Jan2025 15:43:30.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[11Jan2025 15:43:30.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[11Jan2025 15:44:07.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cb3eeca
+[11Jan2025 15:44:07.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:55747] logged in with entity id 19837 at (2249.512499988079, 66.0, -2307.582103384789)
+[11Jan2025 15:44:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[11Jan2025 15:44:07.247] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[11Jan2025 15:44:12.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[11Jan2025 15:44:12.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[11Jan2025 15:44:21.413] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5102bd25
+[11Jan2025 15:44:21.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:52671] logged in with entity id 19947 at (2249.512499988079, 66.0, -2307.582103384789)
+[11Jan2025 15:44:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[11Jan2025 15:44:21.488] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[11Jan2025 15:45:01.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee has made the advancement [Surge Protector]
+[11Jan2025 15:52:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
+[11Jan2025 15:54:45.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17344, l='ServerLevel[world]', x=2292.49, y=38.00, z=-2255.30] died, message: 'Villager suffocated in a wall'
