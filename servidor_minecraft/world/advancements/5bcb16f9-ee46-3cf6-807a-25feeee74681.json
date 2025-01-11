@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-11 19:25:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-01-10 01:34:15 +0000"
@@ -3555,6 +3561,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-01-10 01:56:36 +0000",
+      "minecraft:sparse_jungle": "2025-01-11 19:24:42 +0000",
       "minecraft:river": "2025-01-09 22:13:42 +0000",
       "minecraft:lukewarm_ocean": "2025-01-10 01:56:41 +0000",
       "minecraft:forest": "2025-01-10 00:30:17 +0000",
