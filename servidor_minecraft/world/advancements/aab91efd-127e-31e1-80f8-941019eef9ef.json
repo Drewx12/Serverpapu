@@ -3151,6 +3151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-11 03:23:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-09 00:00:19 +0000"
@@ -3433,6 +3439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-11 03:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-08 22:38:43 +0000"
@@ -3619,6 +3631,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-01-10 00:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-11 03:14:14 +0000"
     },
     "done": true
   },

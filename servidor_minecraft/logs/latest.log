@@ -1,416 +1,114 @@
-[11Jan2025 01:21:50.298] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[11Jan2025 01:21:50.321] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[11Jan2025 01:21:53.846] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serverpapu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[11Jan2025 01:21:55.696] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jan2025 01:21:55.704] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jan2025 01:21:55.709] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jan2025 01:21:55.715] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jan2025 01:21:57.040] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[11Jan2025 01:22:04.563] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11Jan2025 01:22:04.731] [main/ERROR] [mixin/]: Mixin config forge-combatlog-common.mixins.json does not specify "minVersion" property
-[11Jan2025 01:22:04.737] [main/ERROR] [mixin/]: Mixin config forge-combatlog.mixins.json does not specify "minVersion" property
-[11Jan2025 01:22:04.920] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.wuest.prefab.MixinConnector]
-[11Jan2025 01:22:04.944] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[11Jan2025 01:22:05.081] [main/WARN] [mixin/]: Reference map 'combatlog-forge-refmap.json' for forge-combatlog.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jan2025 01:22:06.594] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[11Jan2025 01:22:24.465] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[11Jan2025 01:22:30.777] [modloading-worker-0/INFO] [com.wuest.prefab.Prefab/]: Built TOML config for /workspaces/Serverpapu/servidor_minecraft/config/prefab.toml
-[11Jan2025 01:22:30.789] [modloading-worker-0/INFO] [com.wuest.prefab.Prefab/]: Loaded TOML config file /workspaces/Serverpapu/servidor_minecraft/config/prefab.toml
-[11Jan2025 01:22:34.913] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[11Jan2025 01:22:34.914] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[11Jan2025 01:22:47.125] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[11Jan2025 01:22:47.125] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[11Jan2025 01:22:47.126] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[11Jan2025 01:22:47.126] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[11Jan2025 01:22:47.126] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[11Jan2025 01:22:47.126] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[11Jan2025 01:22:47.126] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[11Jan2025 01:22:47.126] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[11Jan2025 01:22:47.423] [main/INFO] [journeymap/]: Initializing Packet Registries
-[11Jan2025 01:22:47.562] [modloading-worker-0/INFO] [digidigi.mtmechs.MagitekMechs/]: Got IMC []
-[11Jan2025 01:22:47.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prefab] Starting version check at https://raw.githubusercontent.com/Brian-Wuest/MC-Prefab/Main/changeLog.json
-[11Jan2025 01:22:48.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prefab] Found status: UP_TO_DATE Current: 1.9.2.5 Target: null
-[11Jan2025 01:22:48.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[11Jan2025 01:22:49.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-22 Target: null
-[11Jan2025 01:22:49.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[11Jan2025 01:22:50.129] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.19.2-1.0.24 Target: null
-[11Jan2025 01:22:50.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[11Jan2025 01:22:50.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[11Jan2025 01:22:50.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[11Jan2025 01:22:50.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
-[11Jan2025 01:22:50.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[11Jan2025 01:22:50.787] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23136!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23136!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
-	... 6 more
-[11Jan2025 01:22:50.803] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11Jan2025 01:22:50.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.12
-[11Jan2025 01:22:56.474] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11Jan2025 01:23:01.445] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[11Jan2025 01:23:01.447] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[11Jan2025 01:23:30.191] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[11Jan2025 01:23:31.270] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+[11Jan2025 03:50:44.882] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[11Jan2025 03:50:44.894] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[11Jan2025 03:50:46.019] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serverpapu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[11Jan2025 03:50:46.973] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jan2025 03:50:46.980] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jan2025 03:50:46.983] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jan2025 03:50:46.990] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jan2025 03:50:47.768] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[11Jan2025 03:50:56.016] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11Jan2025 03:50:56.181] [main/ERROR] [mixin/]: Mixin config forge-combatlog-common.mixins.json does not specify "minVersion" property
+[11Jan2025 03:50:56.183] [main/ERROR] [mixin/]: Mixin config forge-combatlog.mixins.json does not specify "minVersion" property
+[11Jan2025 03:50:56.375] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.wuest.prefab.MixinConnector]
+[11Jan2025 03:50:56.399] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Jan2025 03:50:56.584] [main/WARN] [mixin/]: Reference map 'combatlog-forge-refmap.json' for forge-combatlog.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jan2025 03:50:58.364] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[11Jan2025 03:51:16.608] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[11Jan2025 03:51:21.896] [modloading-worker-0/INFO] [com.wuest.prefab.Prefab/]: Built TOML config for /workspaces/Serverpapu/servidor_minecraft/config/prefab.toml
+[11Jan2025 03:51:21.905] [modloading-worker-0/INFO] [com.wuest.prefab.Prefab/]: Loaded TOML config file /workspaces/Serverpapu/servidor_minecraft/config/prefab.toml
+[11Jan2025 03:51:26.772] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[11Jan2025 03:51:26.773] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[11Jan2025 03:51:38.773] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[11Jan2025 03:51:38.775] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[11Jan2025 03:51:38.777] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[11Jan2025 03:51:38.778] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[11Jan2025 03:51:38.778] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[11Jan2025 03:51:38.778] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[11Jan2025 03:51:38.779] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[11Jan2025 03:51:38.779] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[11Jan2025 03:51:39.298] [main/INFO] [journeymap/]: Initializing Packet Registries
+[11Jan2025 03:51:39.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prefab] Starting version check at https://raw.githubusercontent.com/Brian-Wuest/MC-Prefab/Main/changeLog.json
+[11Jan2025 03:51:39.446] [modloading-worker-0/INFO] [digidigi.mtmechs.MagitekMechs/]: Got IMC []
+[11Jan2025 03:51:40.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prefab] Found status: UP_TO_DATE Current: 1.9.2.5 Target: null
+[11Jan2025 03:51:40.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[11Jan2025 03:51:40.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-22 Target: null
+[11Jan2025 03:51:40.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[11Jan2025 03:51:41.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.19.2-1.0.24 Target: null
+[11Jan2025 03:51:41.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[11Jan2025 03:51:41.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[11Jan2025 03:51:41.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[11Jan2025 03:51:41.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[11Jan2025 03:51:41.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[11Jan2025 03:51:42.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[11Jan2025 03:51:42.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jan2025 03:51:42.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.12
+[11Jan2025 03:51:49.143] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Jan2025 03:51:54.891] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[11Jan2025 03:51:54.892] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Serverpapu/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[11Jan2025 03:52:17.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[11Jan2025 03:52:18.557] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
 
-[11Jan2025 01:23:31.700] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3379 advancements
-[11Jan2025 01:23:35.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[11Jan2025 01:23:35.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[11Jan2025 01:23:35.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[11Jan2025 01:23:35.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[11Jan2025 01:23:35.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[11Jan2025 01:23:35.592] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[11Jan2025 01:23:35.867] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11Jan2025 01:23:35.869] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[11Jan2025 01:23:35.870] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11Jan2025 01:23:35.870] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[11Jan2025 01:23:37.654] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[11Jan2025 01:23:37.655] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[11Jan2025 01:23:37.656] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[11Jan2025 01:23:37.691] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[11Jan2025 01:23:37.700] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[11Jan2025 01:23:37.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[11Jan2025 01:23:57.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[11Jan2025 01:24:07.367] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.377] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.390] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.415] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.423] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.432] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.465] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:07.648] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:08.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:08.647] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:09.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 01:24:09.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[11Jan2025 01:24:10.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[11Jan2025 01:24:10.867] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13721 ms
-[11Jan2025 01:24:10.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.975s)! For help, type "help"
-[11Jan2025 01:24:10.914] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[11Jan2025 01:24:39.196] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fad4894
-[11Jan2025 01:24:39.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:33475] logged in with entity id 131 at (224.30000001192093, 77.0, -397.3658986127665)
-[11Jan2025 01:24:39.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
-[11Jan2025 01:24:39.743] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
-[11Jan2025 01:24:42.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
-[11Jan2025 01:26:15.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[11Jan2025 01:27:08.606] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ce7e43
-[11Jan2025 01:27:08.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:46817] logged in with entity id 985 at (2344.609578953227, 73.5, -2191.472563627093)
-[11Jan2025 01:27:08.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
-[11Jan2025 01:27:08.819] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
-[11Jan2025 01:27:24.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> discord
-[11Jan2025 01:29:04.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[11Jan2025 01:29:16.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/630, l='ServerLevel[world]', x=2311.36, y=63.00, z=-2265.35] died, message: 'Villager suffocated in a wall'
-[11Jan2025 01:29:52.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was slain by Zombie
-[11Jan2025 01:31:11.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! -5.533743784550097,0.395575898673286,-8.373870339734367
-[11Jan2025 01:34:03.623] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@508a683f
-[11Jan2025 01:34:03.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:36337] logged in with entity id 2847 at (2033.4389793653986, 63.0, -2346.3024445999445)
-[11Jan2025 01:34:03.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:34:03.690] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:35:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee blew up
-[11Jan2025 01:35:32.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/652, l='ServerLevel[world]', x=2327.00, y=72.75, z=-2217.35] died, message: 'Fisherman was slain by Zombie'
-[11Jan2025 01:35:35.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/651, l='ServerLevel[world]', x=2325.53, y=72.62, z=-2217.40] died, message: 'Fisherman was slain by Zombie'
-[11Jan2025 01:35:41.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/653, l='ServerLevel[world]', x=2325.31, y=72.69, z=-2219.14] died, message: 'Fisherman was slain by Zombie'
-[11Jan2025 01:36:02.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was blown up by Creeper
-[11Jan2025 01:38:07.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JayJayCbee to MrWasa12
-[11Jan2025 01:38:38.457] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4cf033cf
-[11Jan2025 01:38:38.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:34307] logged in with entity id 5367 at (2132.2816830904057, 61.437176367998276, -2329.576310223268)
-[11Jan2025 01:38:38.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
-[11Jan2025 01:38:38.575] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
-[11Jan2025 01:38:46.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! 9.460442352011796,1.0435356201475088,3.534250214196163
-[11Jan2025 01:38:47.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa was kicked for floating too long!
-[11Jan2025 01:38:47.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Flying is not enabled on this server
-[11Jan2025 01:38:47.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
-[11Jan2025 01:38:47.760] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 01:38:57.550] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d466292
-[11Jan2025 01:38:57.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:50565] logged in with entity id 5533 at (2256.1841024307637, 70.02442408821369, -2362.5059106660756)
-[11Jan2025 01:38:57.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
-[11Jan2025 01:38:57.621] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
-[11Jan2025 01:40:09.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by JayJayCbee
-[11Jan2025 01:41:33.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
-[11Jan2025 01:41:33.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
-[11Jan2025 01:43:02.344] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@506a7124
-[11Jan2025 01:43:02.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:38771] logged in with entity id 6787 at (2264.029212401186, 64.9375, -2322.0676670835956)
-[11Jan2025 01:43:02.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
-[11Jan2025 01:43:02.462] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
-[11Jan2025 01:44:16.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by JayJayCbee
-[11Jan2025 01:50:35.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 01:50:35.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 01:50:35.292] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 01:50:57.962] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@659c74b2
-[11Jan2025 01:50:57.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:60485] logged in with entity id 9228 at (2335.8834687211934, 75.0, -2238.659617333396)
-[11Jan2025 01:50:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:50:58.252] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:51:28.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 01:51:28.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 01:52:28.114] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@484dd736
-[11Jan2025 01:52:28.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:43839] logged in with entity id 9558 at (2335.8834687211934, 75.0, -2238.659617333396)
-[11Jan2025 01:52:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:52:28.195] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:52:54.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
-[11Jan2025 01:52:54.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 01:52:54.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
-[11Jan2025 01:52:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
-[11Jan2025 01:53:03.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
-[11Jan2025 01:53:03.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
-[11Jan2025 01:53:14.192] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@758e38af[id=<null>,name=JayJayCbee,properties={},legacy=false] (/127.23.28.90:46163) lost connection: Disconnected
-[11Jan2025 01:53:26.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
-[11Jan2025 01:53:26.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
-[11Jan2025 01:53:26.124] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 01:53:26.394] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@545ebd4f
-[11Jan2025 01:53:26.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:39107] logged in with entity id 9884 at (2365.363009041993, 72.0, -2224.7628262184003)
-[11Jan2025 01:53:26.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:53:26.490] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:53:29.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
-[11Jan2025 01:53:36.600] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10eb8b8c
-[11Jan2025 01:53:36.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:51223] logged in with entity id 10280 at (2374.8020668146933, 86.0, -2209.499715857861)
-[11Jan2025 01:53:36.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
-[11Jan2025 01:53:36.798] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
-[11Jan2025 01:53:42.249] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73f58407
-[11Jan2025 01:53:42.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:57985] logged in with entity id 10319 at (2234.300000011921, 70.5, -2384.016138575077)
-[11Jan2025 01:53:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
-[11Jan2025 01:53:42.290] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
-[11Jan2025 01:53:47.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4243feaf
-[11Jan2025 01:53:47.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:40257] logged in with entity id 10486 at (2268.4477940474835, 65.0, -2315.1196550485442)
-[11Jan2025 01:53:47.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
-[11Jan2025 01:53:47.887] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
-[11Jan2025 01:53:48.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
-[11Jan2025 01:53:48.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 01:54:06.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@741ca28a
-[11Jan2025 01:54:06.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:52541] logged in with entity id 10541 at (2369.39138043672, 82.0, -2205.659754183648)
-[11Jan2025 01:54:06.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:54:06.538] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:54:31.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
-[11Jan2025 01:54:31.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 01:54:41.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@710ac386
-[11Jan2025 01:54:41.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:36177] logged in with entity id 10632 at (2369.39138043672, 82.0, -2205.659754183648)
-[11Jan2025 01:54:41.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:54:41.130] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:55:11.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 01:55:11.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 01:55:30.776] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b3d4951
-[11Jan2025 01:55:30.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:43223] logged in with entity id 10787 at (2369.39138043672, 82.0, -2205.659754183648)
-[11Jan2025 01:55:30.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:55:30.875] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:56:00.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 01:56:00.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 01:56:24.045] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43b205e5
-[11Jan2025 01:56:24.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:51609] logged in with entity id 11043 at (2369.39138043672, 82.0, -2205.659754183648)
-[11Jan2025 01:56:24.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 01:56:24.122] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 01:56:54.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 01:56:54.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:00:10.648] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d29d3d3
-[11Jan2025 02:00:10.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:42401] logged in with entity id 11982 at (2369.39138043672, 82.0, -2205.659754183648)
-[11Jan2025 02:00:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 02:00:10.732] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 02:00:40.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 02:00:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:01:25.846] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ad03195
-[11Jan2025 02:01:25.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:55931] logged in with entity id 12266 at (2369.39138043672, 82.0, -2205.659754183648)
-[11Jan2025 02:01:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 02:01:25.967] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 02:01:55.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 02:01:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:02:24.083] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e4c20a2
-[11Jan2025 02:02:47.226] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27a621d7
-[11Jan2025 02:02:47.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.221.4.197:42883] logged in with entity id 12580 at (2369.39138043672, 82.0, -2205.659754183648)
-[11Jan2025 02:02:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 02:02:47.511] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 02:04:22.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
-[11Jan2025 02:04:22.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:04:50.446] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@510bbb24
-[11Jan2025 02:04:50.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.93.206.93:34449] logged in with entity id 13088 at (2369.8164657677294, 72.0, -2206.540708629871)
-[11Jan2025 02:04:50.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 02:04:50.553] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 02:05:20.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
-[11Jan2025 02:05:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:06:23.699] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26a00c3c
-[11Jan2025 02:06:23.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.221.4.197:53437] logged in with entity id 13602 at (2369.8164657677294, 72.0, -2206.540708629871)
-[11Jan2025 02:06:23.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 02:06:23.827] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 02:08:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> oigan
-[11Jan2025 02:09:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> mande?
-[11Jan2025 02:09:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> al q me traiga una paleta de ladrillos le doy 5 diamante
-[11Jan2025 02:10:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> alguien me acolita?
-[11Jan2025 02:11:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ayudate con eso
-[11Jan2025 02:11:19.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> sacate el que no puedes oir ve dylan
-[11Jan2025 02:11:49.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> que me das
-[11Jan2025 02:11:53.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ya dije
-[11Jan2025 02:11:58.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> polvora quiero
-[11Jan2025 02:12:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> yo tengo 4
-[11Jan2025 02:12:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> cuanto
-[11Jan2025 02:12:25.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> cuanto estas dispuesto a pagar
-[11Jan2025 02:12:36.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
-[11Jan2025 02:12:36.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
-[11Jan2025 02:12:39.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
-[11Jan2025 02:12:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:12:39.207] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 02:12:49.196] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b99a741
-[11Jan2025 02:12:49.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.221.4.197:38611] logged in with entity id 15475 at (2262.604068399816, 93.0, -2374.6898519631286)
-[11Jan2025 02:12:49.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 02:12:49.281] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 02:12:57.404] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@cb72275
-[11Jan2025 02:12:57.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:59139] logged in with entity id 15518 at (2329.300000011921, 73.0, -2244.923341208526)
-[11Jan2025 02:12:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
-[11Jan2025 02:12:57.478] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
-[11Jan2025 02:13:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> cuanta obsidiana
-[11Jan2025 02:13:54.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> dilan
-[11Jan2025 02:13:56.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> oro tener tu?
-[11Jan2025 02:13:59.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> mrwasa tienes oro?
-[11Jan2025 02:14:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> si creooo
-[11Jan2025 02:14:11.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> pasa un pite bro
-[11Jan2025 02:14:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> nos regalas es para que reponga mi casa
-[11Jan2025 02:14:21.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> aguanten
-[11Jan2025 02:14:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> cuanta obsidiana quieres
-[11Jan2025 02:14:29.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> obsidiana?
-[11Jan2025 02:14:33.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ya no necesito
-[11Jan2025 02:14:37.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ya tengo
-[11Jan2025 02:14:47.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> como asi no puedes hablar ve
-[11Jan2025 02:14:55.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> estoy en llamada con mi novia
-[11Jan2025 02:14:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> .-.
-[11Jan2025 02:15:26.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> saludale de parte de Queri kapija
-[11Jan2025 02:16:02.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> tienes 8 de oro?
-[11Jan2025 02:16:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> mr
-[11Jan2025 02:16:41.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> una flor para un peruano
-[11Jan2025 02:16:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> xD
-[11Jan2025 02:21:59.952] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f47f0
-[11Jan2025 02:21:59.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:40409] logged in with entity id 17832 at (2270.836037705038, 64.0, -2322.300000011921)
-[11Jan2025 02:21:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:22:00.039] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:22:30.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
-[11Jan2025 02:22:30.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:22:43.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@392ef0f
-[11Jan2025 02:22:43.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:43177] logged in with entity id 18267 at (2270.836037705038, 64.0, -2322.300000011921)
-[11Jan2025 02:22:43.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:22:43.640] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:23:13.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
-[11Jan2025 02:23:13.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:23:57.123] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79cd8765
-[11Jan2025 02:23:57.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:40971] logged in with entity id 19092 at (2270.836037705038, 64.0, -2322.300000011921)
-[11Jan2025 02:23:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:23:57.213] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:24:27.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
-[11Jan2025 02:24:27.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:24:55.356] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3086cfc6
-[11Jan2025 02:24:55.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:39725] logged in with entity id 19909 at (2270.836037705038, 64.0, -2322.300000011921)
-[11Jan2025 02:24:55.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:24:55.422] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:25:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> dylan tienes lana
-[11Jan2025 02:25:54.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> nel
-[11Jan2025 02:26:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> mateo
-[11Jan2025 02:26:08.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> discord
-[11Jan2025 02:26:39.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> mateo discord
-[11Jan2025 02:28:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> grandiosa dilan
-[11Jan2025 02:29:10.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
-[11Jan2025 02:29:10.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:29:26.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@edc3890
-[11Jan2025 02:29:27.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:40045] logged in with entity id 21299 at (2298.6007158141474, 81.0, -2217.271803947506)
-[11Jan2025 02:29:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:29:27.087] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:31:42.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
-[11Jan2025 02:31:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:31:59.394] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78cf62ca
-[11Jan2025 02:31:59.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:36913] logged in with entity id 21907 at (2298.3293116073473, 86.5, -2214.5115196906468)
-[11Jan2025 02:31:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:31:59.474] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:34:59.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
-[11Jan2025 02:34:59.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:34:59.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has died of cowardice
-[11Jan2025 02:34:59.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 02:35:19.753] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5dc5639d
-[11Jan2025 02:35:19.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:39085] logged in with entity id 22873 at (2303.4064238175024, 86.5, -2217.6288571722635)
-[11Jan2025 02:35:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:35:19.854] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:35:59.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee blew up
-[11Jan2025 02:35:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa blew up
-[11Jan2025 02:35:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
-[11Jan2025 02:36:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
-[11Jan2025 02:36:49.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 5 entities to MrWasa12
-[11Jan2025 02:37:51.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by Pilin33
-[11Jan2025 02:38:00.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by IAMshinoyasa
-[11Jan2025 02:38:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[11Jan2025 02:38:58.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Kicked by an operator
-[11Jan2025 02:38:58.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
-[11Jan2025 02:38:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked IAMshinoyasa: Kicked by an operator
-[11Jan2025 02:38:58.629] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 02:39:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Iron Golem
-[11Jan2025 02:39:51.949] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e40f59c
-[11Jan2025 02:39:51.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:43763] logged in with entity id 25393 at (2287.300000011921, 37.362945782181335, -2217.487500011921)
-[11Jan2025 02:39:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
-[11Jan2025 02:39:52.096] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
-[11Jan2025 02:40:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JayJayCbee to MrWasa12
-[11Jan2025 02:40:22.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Timed out
-[11Jan2025 02:40:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
-[11Jan2025 02:40:38.801] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@422dc9b7
-[11Jan2025 02:40:38.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:54135] logged in with entity id 25575 at (2287.300000011921, 37.362945782181335, -2217.487500011921)
-[11Jan2025 02:40:38.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
-[11Jan2025 02:40:38.881] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
-[11Jan2025 02:41:05.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
-[11Jan2025 02:41:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
-[11Jan2025 02:41:30.198] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5432edae
-[11Jan2025 02:41:30.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:39487] logged in with entity id 25937 at (2299.6551014694423, 74.0, -2211.454945400791)
-[11Jan2025 02:41:30.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
-[11Jan2025 02:41:30.279] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
-[11Jan2025 02:41:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by Pilin33
-[11Jan2025 02:42:24.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Timed out
-[11Jan2025 02:42:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
-[11Jan2025 02:43:12.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e1834c5
-[11Jan2025 02:43:12.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:44263] logged in with entity id 26396 at (2315.6187973491124, 74.0, -2244.3564751332306)
-[11Jan2025 02:43:12.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
-[11Jan2025 02:43:12.455] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
-[11Jan2025 02:43:58.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
-[11Jan2025 02:43:58.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:44:26.301] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15adc5ec
-[11Jan2025 02:44:26.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.221.4.197:35309] logged in with entity id 26825 at (2294.4636181353526, 80.0625, -2216.8018835192647)
-[11Jan2025 02:44:26.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
-[11Jan2025 02:44:26.401] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
-[11Jan2025 02:44:52.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! -1.1909839437530536,0.7287758923075103,10.227688350648805
-[11Jan2025 02:46:20.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
-[11Jan2025 02:46:20.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:46:21.011] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 02:46:51.246] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55b1d2c5
-[11Jan2025 02:46:51.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:37273] logged in with entity id 27594 at (2299.9661323665487, 72.10360926093821, -2286.9397285273567)
-[11Jan2025 02:46:51.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
-[11Jan2025 02:46:51.324] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
-[11Jan2025 02:47:17.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Disconnected
-[11Jan2025 02:47:17.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
-[11Jan2025 02:47:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[11Jan2025 02:47:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11Jan2025 02:47:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11Jan2025 02:47:26.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Server closed
-[11Jan2025 02:47:26.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
-[11Jan2025 02:47:26.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Server closed
-[11Jan2025 02:47:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
-[11Jan2025 02:47:26.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11Jan2025 02:47:29.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11Jan2025 02:47:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
-[11Jan2025 02:47:29.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11Jan2025 02:47:29.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11Jan2025 02:47:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11Jan2025 02:47:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
-[11Jan2025 02:47:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11Jan2025 02:47:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11Jan2025 02:47:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jan2025 03:52:19.134] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3379 advancements
+[11Jan2025 03:52:23.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[11Jan2025 03:52:23.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jan2025 03:52:23.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jan2025 03:52:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jan2025 03:52:24.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jan2025 03:52:24.206] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jan2025 03:52:24.443] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jan2025 03:52:24.444] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jan2025 03:52:24.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jan2025 03:52:24.454] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jan2025 03:52:27.374] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11Jan2025 03:52:27.375] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11Jan2025 03:52:27.377] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11Jan2025 03:52:27.439] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[11Jan2025 03:52:27.443] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[11Jan2025 03:52:27.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jan2025 03:52:48.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jan2025 03:53:02.350] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.364] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.365] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.366] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.372] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.395] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.408] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.412] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.413] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.416] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.430] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.434] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.444] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.447] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.450] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.462] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.480] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.487] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.497] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.506] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:02.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:03.054] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:03.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:04.054] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:04.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 03:53:05.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[11Jan2025 03:53:05.567] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[11Jan2025 03:53:07.202] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 19149 ms
+[11Jan2025 03:53:07.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (42.343s)! For help, type "help"
+[11Jan2025 03:53:07.307] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jan2025 03:53:09.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Jan2025 03:58:01.157] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@358823da
+[11Jan2025 03:58:01.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:56537] logged in with entity id 139 at (2321.699999988079, 68.0, -2265.699999988079)
+[11Jan2025 03:58:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[11Jan2025 03:58:01.638] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[11Jan2025 03:58:08.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7943ms or 158 ticks behind
+[11Jan2025 03:58:26.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
