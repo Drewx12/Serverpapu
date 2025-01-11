@@ -112,3 +112,12 @@
 [11Jan2025 03:58:01.638] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
 [11Jan2025 03:58:08.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7943ms or 158 ticks behind
 [11Jan2025 03:58:26.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
+[11Jan2025 04:01:13.818] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@490bc2ce
+[11Jan2025 04:01:13.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:48203] logged in with entity id 942 at (2053.1381950761256, 128.0, -1971.4378015525467)
+[11Jan2025 04:01:13.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 04:01:13.888] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 04:01:17.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[11Jan2025 04:01:32.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 was shot by Skeleton
+[11Jan2025 04:07:35.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 blew up
+[11Jan2025 04:09:04.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 blew up
+[11Jan2025 04:09:04.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 blew up
