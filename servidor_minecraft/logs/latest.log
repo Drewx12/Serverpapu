@@ -126,3 +126,5 @@
 [11Jan2025 04:23:12.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
 [11Jan2025 04:42:23.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was blown up by Creeper
 [11Jan2025 04:51:23.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was shot by Skeleton
+[11Jan2025 04:54:19.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8529, l='ServerLevel[world]', x=2310.47, y=44.00, z=-2271.42] died, message: 'Villager suffocated in a wall'
+[11Jan2025 04:56:40.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Enchanter]
