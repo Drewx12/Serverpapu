@@ -175,3 +175,11 @@
 [11Jan2025 15:52:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
 [11Jan2025 15:54:45.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17344, l='ServerLevel[world]', x=2292.49, y=38.00, z=-2255.30] died, message: 'Villager suffocated in a wall'
 [11Jan2025 16:17:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Zombie
+[11Jan2025 16:25:26.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 moved wrongly!
+[11Jan2025 16:26:48.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by MrWasa12
+[11Jan2025 16:26:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
+[11Jan2025 16:27:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was pummeled by Pilin33
+[11Jan2025 16:27:08.375] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 19 in "main" inventory handler
+[11Jan2025 16:27:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
+[11Jan2025 16:28:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
+[11Jan2025 16:28:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by Pilin33

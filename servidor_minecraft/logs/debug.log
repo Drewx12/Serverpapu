@@ -6363,3 +6363,40 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 16:14:41.452] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2407, y=64, z=-2258}) doesn't have enough leaves around top most log
 [11Jan2025 16:17:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Zombie
 [11Jan2025 16:17:09.467] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736612229443
+[11Jan2025 16:19:24.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 16:19:24.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 16:23:27.692] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.42, y=-15.60, z=-2254.41]]
+[11Jan2025 16:23:34.162] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.42, y=-25.05, z=-2254.41]]
+[11Jan2025 16:23:39.357] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.45, y=-25.00, z=-2255.80]]
+[11Jan2025 16:24:24.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 16:24:24.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 16:24:38.886] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2393.49, y=-15.00, z=-2265.52]]
+[11Jan2025 16:24:47.530] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2399.70, y=-15.00, z=-2265.37]]
+[11Jan2025 16:24:52.074] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2402.70, y=-21.77, z=-2256.31]]
+[11Jan2025 16:24:58.101] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2406.04, y=-24.00, z=-2256.52]]
+[11Jan2025 16:25:02.044] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2406.04, y=-24.00, z=-2256.52]]
+[11Jan2025 16:25:09.134] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2410.41, y=-21.00, z=-2256.49]]
+[11Jan2025 16:25:21.599] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2411.58, y=-20.00, z=-2256.30]]
+[11Jan2025 16:25:25.150] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=-24.88, z=-2254.76]]
+[11Jan2025 16:25:25.591] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=-23.74, z=-2254.30]]
+[11Jan2025 16:25:26.660] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=-21.27, z=-2254.30]]
+[11Jan2025 16:25:26.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 moved wrongly!
+[11Jan2025 16:25:29.847] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=-13.75, z=-2254.30]]
+[11Jan2025 16:25:29.989] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=-13.39, z=-2254.30]]
+[11Jan2025 16:25:31.506] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=-9.86, z=-2254.30]]
+[11Jan2025 16:25:33.760] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=-4.57, z=-2254.30]]
+[11Jan2025 16:25:36.490] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.51, y=1.90, z=-2254.30]]
+[11Jan2025 16:25:52.077] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MrWasa12'/19947, l='ServerLevel[world]', x=2405.36, y=38.59, z=-2254.62]]
+[11Jan2025 16:26:48.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by MrWasa12
+[11Jan2025 16:26:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
+[11Jan2025 16:26:49.943] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736612809936
+[11Jan2025 16:26:50.193] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736612810179
+[11Jan2025 16:27:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was pummeled by Pilin33
+[11Jan2025 16:27:08.375] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 19 in "main" inventory handler
+[11Jan2025 16:27:09.724] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736612829723
+[11Jan2025 16:27:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
+[11Jan2025 16:27:36.209] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736612856209
+[11Jan2025 16:28:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
+[11Jan2025 16:28:15.655] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736612895655
+[11Jan2025 16:28:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by Pilin33
+[11Jan2025 16:29:00.424] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736612940412
