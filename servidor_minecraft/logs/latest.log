@@ -215,3 +215,5 @@
 [11Jan2025 17:01:47.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.144.24.31:53425] logged in with entity id 45119 at (2452.3097424612884, -45.0, -2283.849209806526)
 [11Jan2025 17:01:47.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
 [11Jan2025 17:01:47.428] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 17:21:34.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[11Jan2025 17:21:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
