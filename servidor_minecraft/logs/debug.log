@@ -4793,3 +4793,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 04:09:04.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 blew up
 [11Jan2025 04:09:05.667] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736568545667
 [11Jan2025 04:09:06.500] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736568546499
+[11Jan2025 04:11:56.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 blew up
+[11Jan2025 04:11:58.378] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736568718378
+[11Jan2025 04:13:22.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:13:22.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:14:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mateomiuR14> e
+[11Jan2025 04:18:22.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:18:22.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
