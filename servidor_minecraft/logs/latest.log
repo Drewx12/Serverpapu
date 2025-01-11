@@ -220,3 +220,5 @@
 [11Jan2025 17:47:29.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee has made the advancement [What a Deal!]
 [11Jan2025 18:08:32.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
 [11Jan2025 18:08:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[11Jan2025 18:24:30.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[11Jan2025 18:24:30.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game

@@ -7437,3 +7437,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 18:19:27.470] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2288.52, y=37.00, z=-2265.16]]
 [11Jan2025 18:19:37.172] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2289.74, y=38.17, z=-2265.69]]
 [11Jan2025 18:19:37.575] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2289.80, y=38.00, z=-2265.69]]
+[11Jan2025 18:22:40.625] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2289.70, y=37.00, z=-2256.52]]
+[11Jan2025 18:22:45.471] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2289.70, y=37.00, z=-2256.52]]
+[11Jan2025 18:22:55.468] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2288.69, y=37.00, z=-2250.51]]
+[11Jan2025 18:22:59.419] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2288.32, y=37.05, z=-2258.12]]
+[11Jan2025 18:24:24.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 18:24:24.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 18:24:30.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[11Jan2025 18:24:30.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 18:29:24.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 18:29:24.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
