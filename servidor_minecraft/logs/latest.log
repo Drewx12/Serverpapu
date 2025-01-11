@@ -174,3 +174,4 @@
 [11Jan2025 15:45:01.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee has made the advancement [Surge Protector]
 [11Jan2025 15:52:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
 [11Jan2025 15:54:45.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17344, l='ServerLevel[world]', x=2292.49, y=38.00, z=-2255.30] died, message: 'Villager suffocated in a wall'
+[11Jan2025 16:17:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Zombie

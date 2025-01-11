@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_wall": {
+    "criteria": {
+      "has_block": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-01-09 22:27:25 +0000"
@@ -128,6 +134,12 @@
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2025-01-08 22:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -209,6 +221,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-09 22:28:37 +0000"
@@ -239,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-09 00:00:19 +0000"
@@ -254,6 +278,12 @@
   "securitycraft:recipes/securitycraft/display_case": {
     "criteria": {
       "has_item_frame": "2025-01-11 15:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -563,9 +593,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-01-10 00:24:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -692,6 +734,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-10 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -1109,6 +1157,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-08 23:33:09 +0000"
@@ -1154,6 +1208,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-09 23:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -1621,6 +1681,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_slab_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-09 00:00:19 +0000"
@@ -2011,6 +2077,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-10 01:55:55 +0000"
@@ -2038,6 +2110,12 @@
   "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-09 23:22:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -2092,6 +2170,18 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-01-08 22:42:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tiles_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -2455,6 +2545,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-09 22:28:37 +0000"
@@ -2809,6 +2905,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-01-09 22:47:55 +0000"
@@ -2884,6 +2986,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-09 22:53:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -3142,6 +3250,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-09 22:47:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -3475,6 +3589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 23:11:21 +0000"
@@ -3661,6 +3781,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-10 00:14:22 +0000"
@@ -3799,6 +3925,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-09 23:06:37 +0000"
@@ -3808,6 +3940,12 @@
   "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 23:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -3877,6 +4015,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_table": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-10 01:03:20 +0000"
@@ -3904,6 +4048,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 23:11:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cracked_deepslate_bricks": {
+    "criteria": {
+      "has_item": "2025-01-11 16:03:08 +0000"
     },
     "done": true
   },
@@ -4042,6 +4192,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_slab_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-11 15:36:46 +0000"
@@ -4078,9 +4234,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_stairs_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-09 23:55:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_wall_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-01-11 16:03:08 +0000"
     },
     "done": true
   },
@@ -4219,6 +4387,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-08 23:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -4426,6 +4600,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-01-08 23:13:33 +0000"
@@ -4459,6 +4639,12 @@
   "create:recipes/create.palettes/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-10 01:03:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -4666,6 +4852,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-01-08 22:46:54 +0000"
@@ -4795,6 +4987,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/flowering_azalea_hedge": {
+    "criteria": {
+      "has_leaves": "2025-01-11 15:56:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-09 00:00:19 +0000"
@@ -4822,6 +5020,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-01-08 23:29:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -5059,6 +5263,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_crate": {
     "criteria": {
       "has_planks": "2025-01-09 22:31:59 +0000"
@@ -5152,6 +5362,12 @@
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-01-09 22:28:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -5605,6 +5821,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_slab": {
+    "criteria": {
+      "has_block": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-08 23:01:04 +0000"
@@ -5626,6 +5848,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-01-08 22:42:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_log": "2025-01-11 16:13:21 +0000"
     },
     "done": true
   },
@@ -5713,9 +5941,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-01-10 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -5776,6 +6016,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-10 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -6163,6 +6409,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_stairs_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_chair": {
     "criteria": {
       "has_planks": "2025-01-09 23:25:47 +0000"
@@ -6235,6 +6487,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-11 16:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-01-08 22:40:11 +0000"
@@ -6250,6 +6508,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-09 23:18:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -6286,6 +6550,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-10 01:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
@@ -6457,6 +6727,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_wall_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-01-11 16:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-01-08 23:29:52 +0000"
@@ -6514,6 +6790,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-09 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-11 16:13:24 +0000"
     },
     "done": true
   },
