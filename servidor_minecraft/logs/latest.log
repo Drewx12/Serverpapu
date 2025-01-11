@@ -146,3 +146,19 @@
 [11Jan2025 19:36:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD was pummeled by JayJayCbee
 [11Jan2025 19:36:51.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
 [11Jan2025 19:36:51.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[11Jan2025 19:37:05.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jan2025 19:37:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jan2025 19:37:05.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Server closed
+[11Jan2025 19:37:05.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[11Jan2025 19:37:05.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHeist_xD lost connection: Server closed
+[11Jan2025 19:37:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD left the game
+[11Jan2025 19:37:06.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jan2025 19:37:12.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jan2025 19:37:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[11Jan2025 19:37:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jan2025 19:37:14.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jan2025 19:37:14.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2025 19:37:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[11Jan2025 19:37:14.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2025 19:37:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2025 19:37:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

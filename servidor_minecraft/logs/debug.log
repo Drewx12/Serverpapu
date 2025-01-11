@@ -5710,3 +5710,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 19:36:26.072] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736624185972
 [11Jan2025 19:36:51.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
 [11Jan2025 19:36:51.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[11Jan2025 19:37:05.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jan2025 19:37:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jan2025 19:37:05.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Server closed
+[11Jan2025 19:37:05.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[11Jan2025 19:37:05.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHeist_xD lost connection: Server closed
+[11Jan2025 19:37:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD left the game
+[11Jan2025 19:37:06.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jan2025 19:37:12.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jan2025 19:37:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[11Jan2025 19:37:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jan2025 19:37:14.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jan2025 19:37:14.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 19:37:14.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 19:37:14.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2025 19:37:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[11Jan2025 19:37:14.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2025 19:37:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2025 19:37:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jan2025 19:37:14.471] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[11Jan2025 19:37:14.471] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[11Jan2025 19:37:14.546] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for man:halucination
+[11Jan2025 19:37:14.546] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for man:halucination
+[11Jan2025 19:37:14.546] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[11Jan2025 19:37:14.546] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[11Jan2025 19:37:14.548] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[11Jan2025 19:37:14.548] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[11Jan2025 19:37:14.578] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[11Jan2025 19:37:14.579] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[11Jan2025 19:37:14.580] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
