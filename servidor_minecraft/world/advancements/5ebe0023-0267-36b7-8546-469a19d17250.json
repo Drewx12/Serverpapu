@@ -1499,6 +1499,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-11 04:37:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-10 02:34:20 +0000"
@@ -1744,6 +1750,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:01:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-11 04:37:16 +0000"
     },
     "done": true
   },
@@ -2285,6 +2297,12 @@
   "cfm:recipes/cfm/oak_crate": {
     "criteria": {
       "has_log": "2025-01-10 02:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-11 04:37:16 +0000"
     },
     "done": true
   },
@@ -4048,6 +4066,12 @@
   "cfm:recipes/cfm/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-01-10 03:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-11 04:37:16 +0000"
     },
     "done": true
   },
