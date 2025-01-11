@@ -308,3 +308,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jan2025 02:22:43.640] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
 [11Jan2025 02:23:13.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
 [11Jan2025 02:23:13.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[11Jan2025 02:23:57.123] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79cd8765
+[11Jan2025 02:23:57.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:40971] logged in with entity id 19092 at (2270.836037705038, 64.0, -2322.300000011921)
+[11Jan2025 02:23:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 02:23:57.213] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 02:24:27.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
+[11Jan2025 02:24:27.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[11Jan2025 02:24:55.356] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3086cfc6
+[11Jan2025 02:24:55.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:39725] logged in with entity id 19909 at (2270.836037705038, 64.0, -2322.300000011921)
+[11Jan2025 02:24:55.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 02:24:55.422] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 02:25:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> dylan tienes lana
+[11Jan2025 02:25:54.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> nel
+[11Jan2025 02:26:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> mateo
+[11Jan2025 02:26:08.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> discord
+[11Jan2025 02:26:39.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> mateo discord
+[11Jan2025 02:28:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> grandiosa dilan
+[11Jan2025 02:29:10.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
+[11Jan2025 02:29:10.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[11Jan2025 02:29:26.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@edc3890
+[11Jan2025 02:29:27.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:40045] logged in with entity id 21299 at (2298.6007158141474, 81.0, -2217.271803947506)
+[11Jan2025 02:29:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 02:29:27.087] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 02:31:42.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
+[11Jan2025 02:31:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[11Jan2025 02:31:59.394] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78cf62ca
+[11Jan2025 02:31:59.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:36913] logged in with entity id 21907 at (2298.3293116073473, 86.5, -2214.5115196906468)
+[11Jan2025 02:31:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 02:31:59.474] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
