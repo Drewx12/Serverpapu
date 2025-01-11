@@ -336,3 +336,48 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jan2025 02:31:59.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:36913] logged in with entity id 21907 at (2298.3293116073473, 86.5, -2214.5115196906468)
 [11Jan2025 02:31:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
 [11Jan2025 02:31:59.474] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 02:34:59.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
+[11Jan2025 02:34:59.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[11Jan2025 02:34:59.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has died of cowardice
+[11Jan2025 02:34:59.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 02:35:19.753] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5dc5639d
+[11Jan2025 02:35:19.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:39085] logged in with entity id 22873 at (2303.4064238175024, 86.5, -2217.6288571722635)
+[11Jan2025 02:35:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 02:35:19.854] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 02:35:59.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee blew up
+[11Jan2025 02:35:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa blew up
+[11Jan2025 02:35:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
+[11Jan2025 02:36:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
+[11Jan2025 02:36:49.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 5 entities to MrWasa12
+[11Jan2025 02:37:51.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by Pilin33
+[11Jan2025 02:38:00.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by IAMshinoyasa
+[11Jan2025 02:38:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[11Jan2025 02:38:58.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Kicked by an operator
+[11Jan2025 02:38:58.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[11Jan2025 02:38:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked IAMshinoyasa: Kicked by an operator
+[11Jan2025 02:38:58.629] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 02:39:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Iron Golem
+[11Jan2025 02:39:51.949] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e40f59c
+[11Jan2025 02:39:51.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:43763] logged in with entity id 25393 at (2287.300000011921, 37.362945782181335, -2217.487500011921)
+[11Jan2025 02:39:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[11Jan2025 02:39:52.096] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[11Jan2025 02:40:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JayJayCbee to MrWasa12
+[11Jan2025 02:40:22.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Timed out
+[11Jan2025 02:40:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[11Jan2025 02:40:38.801] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@422dc9b7
+[11Jan2025 02:40:38.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:54135] logged in with entity id 25575 at (2287.300000011921, 37.362945782181335, -2217.487500011921)
+[11Jan2025 02:40:38.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[11Jan2025 02:40:38.881] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[11Jan2025 02:41:05.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[11Jan2025 02:41:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[11Jan2025 02:41:30.198] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5432edae
+[11Jan2025 02:41:30.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:39487] logged in with entity id 25937 at (2299.6551014694423, 74.0, -2211.454945400791)
+[11Jan2025 02:41:30.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[11Jan2025 02:41:30.279] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[11Jan2025 02:41:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by Pilin33
+[11Jan2025 02:42:24.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Timed out
+[11Jan2025 02:42:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[11Jan2025 02:43:12.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e1834c5
+[11Jan2025 02:43:12.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:44263] logged in with entity id 26396 at (2315.6187973491124, 74.0, -2244.3564751332306)
+[11Jan2025 02:43:12.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[11Jan2025 02:43:12.455] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
