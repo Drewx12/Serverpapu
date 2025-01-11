@@ -148,3 +148,14 @@
 [11Jan2025 15:27:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was pummeled by Pilin33
 [11Jan2025 15:27:26.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! -3.632929260275887,-2.0,9.40049030512182
 [11Jan2025 15:28:01.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! -0.8002386619400568,-2.024424088213692,9.913079119396116
+[11Jan2025 15:33:42.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
+[11Jan2025 15:33:42.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
+[11Jan2025 15:33:52.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Zombie
+[11Jan2025 15:33:56.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was slain by Man From The Fog
+[11Jan2025 15:34:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Zombie
+[11Jan2025 15:34:15.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45fb1de5
+[11Jan2025 15:34:15.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:48099] logged in with entity id 17212 at (2317.7414850951495, 71.9375, -2214.634644296374)
+[11Jan2025 15:34:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[11Jan2025 15:34:15.695] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[11Jan2025 15:34:54.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa lost connection: Disconnected
+[11Jan2025 15:34:54.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa left the game
