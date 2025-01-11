@@ -276,3 +276,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jan2025 02:12:57.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:59139] logged in with entity id 15518 at (2329.300000011921, 73.0, -2244.923341208526)
 [11Jan2025 02:12:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
 [11Jan2025 02:12:57.478] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[11Jan2025 02:13:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> cuanta obsidiana
+[11Jan2025 02:13:54.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> dilan
+[11Jan2025 02:13:56.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> oro tener tu?
+[11Jan2025 02:13:59.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> mrwasa tienes oro?
+[11Jan2025 02:14:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> si creooo
+[11Jan2025 02:14:11.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> pasa un pite bro
+[11Jan2025 02:14:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> nos regalas es para que reponga mi casa
+[11Jan2025 02:14:21.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> aguanten
+[11Jan2025 02:14:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> cuanta obsidiana quieres
+[11Jan2025 02:14:29.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> obsidiana?
+[11Jan2025 02:14:33.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ya no necesito
+[11Jan2025 02:14:37.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ya tengo
+[11Jan2025 02:14:47.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> como asi no puedes hablar ve
+[11Jan2025 02:14:55.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> estoy en llamada con mi novia
+[11Jan2025 02:14:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> .-.
+[11Jan2025 02:15:26.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> saludale de parte de Queri kapija
+[11Jan2025 02:16:02.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> tienes 8 de oro?
+[11Jan2025 02:16:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> mr
+[11Jan2025 02:16:41.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> una flor para un peruano
+[11Jan2025 02:16:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> xD
+[11Jan2025 02:21:59.952] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f47f0
+[11Jan2025 02:21:59.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:40409] logged in with entity id 17832 at (2270.836037705038, 64.0, -2322.300000011921)
+[11Jan2025 02:21:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 02:22:00.039] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 02:22:30.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
+[11Jan2025 02:22:30.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[11Jan2025 02:22:43.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@392ef0f
+[11Jan2025 02:22:43.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:43177] logged in with entity id 18267 at (2270.836037705038, 64.0, -2322.300000011921)
+[11Jan2025 02:22:43.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[11Jan2025 02:22:43.640] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 02:23:13.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
+[11Jan2025 02:23:13.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
