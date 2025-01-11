@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-11 15:21:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-08 23:37:36 +0000"
@@ -860,6 +866,12 @@
   "securitycraft:recipes/securitycraft/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-01-09 01:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-11 15:17:59 +0000"
     },
     "done": true
   },
@@ -1656,6 +1668,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-09 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-11 15:17:59 +0000"
     },
     "done": true
   },
@@ -3177,6 +3195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-11 15:17:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-01-08 23:35:42 +0000"
@@ -4396,6 +4420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-11 15:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-08 22:44:13 +0000"
@@ -4612,6 +4642,7 @@
       "rotten_flesh": "2025-01-08 23:11:51 +0000",
       "salmon": "2025-01-10 01:53:06 +0000",
       "melon_slice": "2025-01-10 20:00:01 +0000",
+      "golden_carrot": "2025-01-11 15:16:23 +0000",
       "cooked_chicken": "2025-01-10 20:48:53 +0000",
       "carrot": "2025-01-10 20:23:06 +0000"
     },
@@ -4950,6 +4981,12 @@
   "cfm:recipes/cfm/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-11 01:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-11 15:21:50 +0000"
     },
     "done": true
   },
@@ -5466,6 +5503,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-09 23:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-11 15:21:50 +0000"
     },
     "done": true
   },
