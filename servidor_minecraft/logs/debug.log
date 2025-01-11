@@ -7418,3 +7418,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 18:08:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
 [11Jan2025 18:09:24.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 18:09:24.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 18:14:24.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 18:14:24.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 18:17:02.901] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:04.448] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:05.161] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:06.552] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:07.233] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:08.094] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:08.797] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:09.800] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:10.605] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:11.384] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:12.385] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:17:13.086] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[11Jan2025 18:19:24.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 18:19:24.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 18:19:27.470] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2288.52, y=37.00, z=-2265.16]]
+[11Jan2025 18:19:37.172] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2289.74, y=38.17, z=-2265.69]]
+[11Jan2025 18:19:37.575] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['JayJayCbee'/45119, l='ServerLevel[world]', x=2289.80, y=38.00, z=-2265.69]]
