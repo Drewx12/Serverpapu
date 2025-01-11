@@ -235,3 +235,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jan2025 02:01:55.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
 [11Jan2025 02:01:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
 [11Jan2025 02:02:24.083] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e4c20a2
+[11Jan2025 02:02:47.226] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27a621d7
+[11Jan2025 02:02:47.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.221.4.197:42883] logged in with entity id 12580 at (2369.39138043672, 82.0, -2205.659754183648)
+[11Jan2025 02:02:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 02:02:47.511] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 02:04:22.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[11Jan2025 02:04:22.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 02:04:50.446] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@510bbb24
+[11Jan2025 02:04:50.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.93.206.93:34449] logged in with entity id 13088 at (2369.8164657677294, 72.0, -2206.540708629871)
+[11Jan2025 02:04:50.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 02:04:50.553] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 02:05:20.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
+[11Jan2025 02:05:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 02:06:23.699] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26a00c3c
+[11Jan2025 02:06:23.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.221.4.197:53437] logged in with entity id 13602 at (2369.8164657677294, 72.0, -2206.540708629871)
+[11Jan2025 02:06:23.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 02:06:23.827] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 02:08:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> oigan
+[11Jan2025 02:09:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> mande?
+[11Jan2025 02:09:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> al q me traiga una paleta de ladrillos le doy 5 diamante
+[11Jan2025 02:10:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> alguien me acolita?
+[11Jan2025 02:11:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ayudate con eso
+[11Jan2025 02:11:19.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> sacate el que no puedes oir ve dylan
+[11Jan2025 02:11:49.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> que me das
+[11Jan2025 02:11:53.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> ya dije
+[11Jan2025 02:11:58.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> polvora quiero
+[11Jan2025 02:12:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> yo tengo 4
+[11Jan2025 02:12:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> cuanto
+[11Jan2025 02:12:25.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pilin33> cuanto estas dispuesto a pagar
+[11Jan2025 02:12:36.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[11Jan2025 02:12:36.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[11Jan2025 02:12:39.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[11Jan2025 02:12:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 02:12:39.207] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 02:12:49.196] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b99a741
+[11Jan2025 02:12:49.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.221.4.197:38611] logged in with entity id 15475 at (2262.604068399816, 93.0, -2374.6898519631286)
+[11Jan2025 02:12:49.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 02:12:49.281] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 02:12:57.404] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@cb72275
+[11Jan2025 02:12:57.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:59139] logged in with entity id 15518 at (2329.300000011921, 73.0, -2244.923341208526)
+[11Jan2025 02:12:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[11Jan2025 02:12:57.478] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
