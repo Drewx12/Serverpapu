@@ -158,3 +158,5 @@
 [11Jan2025 05:59:17.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2902, l='ServerLevel[world]', x=2312.43, y=61.00, z=-2266.63] died, message: 'Villager was slain by MrWasa12'
 [11Jan2025 05:59:19.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2891, l='ServerLevel[world]', x=2316.74, y=65.00, z=-2265.41] died, message: 'Villager was slain by MrWasa12'
 [11Jan2025 05:59:22.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2892, l='ServerLevel[world]', x=2317.68, y=66.00, z=-2265.31] died, message: 'Villager was slain by MrWasa12'
+[11Jan2025 06:08:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [The Parrots and the Bats]
+[11Jan2025 06:11:53.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was blown up by Creeper

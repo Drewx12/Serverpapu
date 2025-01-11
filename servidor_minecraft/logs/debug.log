@@ -5081,3 +5081,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 06:00:40.245] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['mateomiuR14'/942, l='ServerLevel[world]', x=2287.30, y=31.46, z=-2217.49]]
 [11Jan2025 06:00:41.984] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['mateomiuR14'/942, l='ServerLevel[world]', x=2287.30, y=31.26, z=-2217.49]]
 [11Jan2025 06:00:59.487] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['mateomiuR14'/942, l='ServerLevel[world]', x=2287.61, y=36.08, z=-2217.49]]
+[11Jan2025 06:03:24.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 06:03:24.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 06:08:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [The Parrots and the Bats]
+[11Jan2025 06:08:24.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 06:08:24.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 06:11:53.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 was blown up by Creeper
+[11Jan2025 06:11:55.199] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736575915197
