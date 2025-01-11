@@ -136,3 +136,9 @@
 [11Jan2025 05:20:32.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:47015] logged in with entity id 17563 at (2346.2252661193884, 74.0, -2239.1385831565467)
 [11Jan2025 05:20:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
 [11Jan2025 05:20:32.467] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[11Jan2025 05:24:09.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7429, l='ServerLevel[world]', x=2307.10, y=45.00, z=-2266.40] died, message: 'Villager was slain by Zombie'
+[11Jan2025 05:24:49.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10407, l='ServerLevel[world]', x=2280.70, y=40.00, z=-2253.70] died, message: 'Villager was slain by Zombie Villager'
+[11Jan2025 05:26:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [The Parrots and the Bats]
+[11Jan2025 05:29:13.440] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46aecf90
+[11Jan2025 05:30:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Into Fire]
+[11Jan2025 05:39:10.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has completed the challenge [Sniper Duel]
