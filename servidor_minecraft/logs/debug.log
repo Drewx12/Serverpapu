@@ -5298,3 +5298,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 06:28:31.385] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2288, y=73, z=-2265}) doesn't have enough leaves around top most log
 [11Jan2025 06:28:32.062] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2288, y=72, z=-2265}) doesn't have enough leaves around top most log
 [11Jan2025 06:28:32.763] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2288, y=71, z=-2265}) doesn't have enough leaves around top most log
+[11Jan2025 06:33:24.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 06:33:24.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 06:36:52.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[11Jan2025 06:36:52.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[11Jan2025 06:36:53.034] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 06:38:24.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 06:38:24.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 06:40:33.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Disconnected
+[11Jan2025 06:40:33.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game

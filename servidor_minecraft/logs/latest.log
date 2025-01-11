@@ -166,3 +166,8 @@
 [11Jan2025 06:26:52.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:55195] logged in with entity id 30113 at (2299.699999988079, -25.23363200604248, -2218.4348696074044)
 [11Jan2025 06:26:52.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
 [11Jan2025 06:26:52.276] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[11Jan2025 06:36:52.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[11Jan2025 06:36:52.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[11Jan2025 06:36:53.034] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 06:40:33.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Disconnected
+[11Jan2025 06:40:33.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
