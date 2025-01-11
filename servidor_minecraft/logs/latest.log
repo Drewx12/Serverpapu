@@ -105,3 +105,28 @@
 [11Jan2025 14:52:51.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> dame un rato
 [11Jan2025 14:53:16.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
 [11Jan2025 14:53:16.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 14:58:08.724] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@107583bd
+[11Jan2025 14:58:08.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:45531] logged in with entity id 6935 at (2271.4210960829796, 67.0, -2355.0749773621237)
+[11Jan2025 14:58:08.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 14:58:08.835] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 14:58:38.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Timed out
+[11Jan2025 14:58:38.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 14:58:38.916] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 14:59:18.242] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b19285
+[11Jan2025 14:59:18.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:40311] logged in with entity id 7424 at (2271.4210960829796, 67.0, -2355.0749773621237)
+[11Jan2025 14:59:18.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 14:59:18.310] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 15:01:00.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b559374
+[11Jan2025 15:03:50.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[11Jan2025 15:03:50.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 15:04:29.377] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55d08d2f
+[11Jan2025 15:04:29.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.144.24.31:57909] logged in with entity id 8616 at (2338.4338209919897, 72.0, -2193.699999988079)
+[11Jan2025 15:04:29.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 15:04:29.437] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[11Jan2025 15:05:29.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee moved too quickly! -4.289625052343581,1.1661092609382138,-9.269627663883966
+[11Jan2025 15:05:30.447] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2df6a0a1
+[11Jan2025 15:05:30.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:40445] logged in with entity id 8923 at (2305.128815760998, 72.0, -2262.91552102349)
+[11Jan2025 15:05:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[11Jan2025 15:05:30.636] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[11Jan2025 15:06:48.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JayJayCbee> @lamadredeldoriantieneunhoyonegroenelculo
+[11Jan2025 15:07:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa blew up
