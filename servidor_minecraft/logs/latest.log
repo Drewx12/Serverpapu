@@ -202,3 +202,16 @@
 [11Jan2025 16:55:31.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
 [11Jan2025 16:55:31.623] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
 [11Jan2025 16:57:41.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by JayJayCbee
+[11Jan2025 17:01:01.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[11Jan2025 17:01:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[11Jan2025 17:01:02.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[11Jan2025 17:01:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[11Jan2025 17:01:27.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2af14d63
+[11Jan2025 17:01:27.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:59317] logged in with entity id 44938 at (2449.2779996099857, -45.0, -2277.140270751388)
+[11Jan2025 17:01:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[11Jan2025 17:01:27.671] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[11Jan2025 17:01:38.240] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7df869b0[id=<null>,name=JayJayCbee,properties={},legacy=false] (/127.144.24.31:34441) lost connection: Disconnected
+[11Jan2025 17:01:47.341] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b6cc950
+[11Jan2025 17:01:47.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.144.24.31:53425] logged in with entity id 45119 at (2452.3097424612884, -45.0, -2283.849209806526)
+[11Jan2025 17:01:47.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[11Jan2025 17:01:47.428] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
