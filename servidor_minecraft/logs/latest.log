@@ -183,3 +183,22 @@
 [11Jan2025 16:27:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
 [11Jan2025 16:28:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by MrWasa12
 [11Jan2025 16:28:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by Pilin33
+[11Jan2025 16:40:39.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[11Jan2025 16:40:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[11Jan2025 16:41:36.942] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@678c9994
+[11Jan2025 16:41:36.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:44531] logged in with entity id 38515 at (2406.787336574895, -42.0, -2255.699999988079)
+[11Jan2025 16:41:36.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[11Jan2025 16:41:37.043] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[11Jan2025 16:46:00.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by Pilin33
+[11Jan2025 16:47:34.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was pummeled by Pilin33
+[11Jan2025 16:49:10.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee burned to death
+[11Jan2025 16:50:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by JayJayCbee
+[11Jan2025 16:55:20.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Kicked by an operator
+[11Jan2025 16:55:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[11Jan2025 16:55:20.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Pilin33: Kicked by an operator
+[11Jan2025 16:55:20.127] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 16:55:31.537] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24c1b0fb
+[11Jan2025 16:55:31.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:54419] logged in with entity id 43182 at (2456.1619304264336, -44.0, -2285.685764111709)
+[11Jan2025 16:55:31.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
+[11Jan2025 16:55:31.623] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[11Jan2025 16:57:41.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was pummeled by JayJayCbee

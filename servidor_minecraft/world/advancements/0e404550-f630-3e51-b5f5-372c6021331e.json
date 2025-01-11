@@ -3961,15 +3961,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-01-11 16:10:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-01-11 15:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-01-11 16:10:22 +0000"
     },
     "done": true
   },
