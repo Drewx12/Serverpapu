@@ -815,3 +815,7 @@
 [12Jan2025 02:40:46.938] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=-10, z=211}
 [12Jan2025 02:40:46.938] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=194, y=-10, z=211}
 [12Jan2025 02:41:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 was slain by MrWasa12
+[12Jan2025 02:45:13.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[12Jan2025 02:45:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[12Jan2025 02:46:02.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Sweet Dreams]
+[12Jan2025 02:49:21.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by mateomiuR14
