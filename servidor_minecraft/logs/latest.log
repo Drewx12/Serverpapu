@@ -764,3 +764,54 @@
 [12Jan2025 02:28:38.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
 [12Jan2025 02:28:38.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
 [12Jan2025 02:30:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has reached the goal [Feelingwatched]
+[12Jan2025 02:32:43.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Not Today, Thank You]
+[12Jan2025 02:35:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> -186 -475
+[12Jan2025 02:35:08.558] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3613399
+[12Jan2025 02:35:08.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:39323] logged in with entity id 27213 at (-229.5217247480904, 63.0, -541.8780056122827)
+[12Jan2025 02:35:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[12Jan2025 02:35:08.685] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[12Jan2025 02:37:07.432] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=175, z=-9}
+[12Jan2025 02:37:07.433] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=174, z=-9}
+[12Jan2025 02:37:07.434] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=175, z=-10}
+[12Jan2025 02:37:07.434] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=174, z=-10}
+[12Jan2025 02:37:07.436] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=175, z=-11}
+[12Jan2025 02:37:07.437] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=174, z=-11}
+[12Jan2025 02:37:07.438] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=175, z=-12}
+[12Jan2025 02:37:07.439] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=174, z=-12}
+[12Jan2025 02:37:07.440] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=175, z=-13}
+[12Jan2025 02:37:07.441] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=174, z=-13}
+[12Jan2025 02:37:07.442] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=175, z=-10}
+[12Jan2025 02:37:07.442] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=175, z=-11}
+[12Jan2025 02:37:07.444] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=175, z=-13}
+[12Jan2025 02:37:07.445] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=174, z=-13}
+[12Jan2025 02:37:07.446] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=174, z=-12}
+[12Jan2025 02:37:07.446] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=174, z=-11}
+[12Jan2025 02:37:07.447] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=174, z=-10}
+[12Jan2025 02:37:07.448] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=174, z=-9}
+[12Jan2025 02:37:07.449] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=175, z=-9}
+[12Jan2025 02:37:07.450] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=175, z=-12}
+[12Jan2025 02:37:07.450] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=176, z=-9}
+[12Jan2025 02:37:07.451] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=176, z=-10}
+[12Jan2025 02:37:07.451] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=176, z=-11}
+[12Jan2025 02:37:07.452] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=176, z=-12}
+[12Jan2025 02:37:07.453] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=176, z=-13}
+[12Jan2025 02:37:07.454] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=176, z=-13}
+[12Jan2025 02:37:07.454] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=176, z=-12}
+[12Jan2025 02:37:07.455] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=176, z=-11}
+[12Jan2025 02:37:07.456] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=176, z=-10}
+[12Jan2025 02:37:07.456] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=176, z=-9}
+[12Jan2025 02:38:08.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was slain by mateomiuR14
+[12Jan2025 02:38:57.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHeist_xD lost connection: Disconnected
+[12Jan2025 02:38:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD left the game
+[12Jan2025 02:38:58.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee moved too quickly! -0.883831940997652,0.7491326388584127,10.24716951236195
+[12Jan2025 02:40:09.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Cover Me with Diamonds]
+[12Jan2025 02:40:46.933] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=180, y=-9, z=215}
+[12Jan2025 02:40:46.934] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=184, y=-7, z=214}
+[12Jan2025 02:40:46.934] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=190, y=-10, z=211}
+[12Jan2025 02:40:46.935] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=187, y=-8, z=213}
+[12Jan2025 02:40:46.935] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=194, y=-14, z=197}
+[12Jan2025 02:40:46.936] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=194, y=-14, z=199}
+[12Jan2025 02:40:46.937] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=194, y=-14, z=198}
+[12Jan2025 02:40:46.938] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=-10, z=211}
+[12Jan2025 02:40:46.938] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=194, y=-10, z=211}
+[12Jan2025 02:41:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 was slain by MrWasa12
