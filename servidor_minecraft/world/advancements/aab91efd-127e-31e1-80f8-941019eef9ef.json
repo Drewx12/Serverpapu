@@ -2382,7 +2382,9 @@
       "sweet_berries": "2025-01-12 02:51:33 +0000",
       "cooked_beef": "2025-01-12 02:13:09 +0000",
       "beef": "2025-01-12 02:09:49 +0000",
-      "apple": "2025-01-12 03:12:48 +0000"
+      "apple": "2025-01-12 03:12:48 +0000",
+      "bread": "2025-01-12 03:20:33 +0000",
+      "rotten_flesh": "2025-01-12 03:27:08 +0000"
     },
     "done": false
   },
@@ -2833,6 +2835,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-01-12 01:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 03:28:02 +0000"
     },
     "done": true
   },

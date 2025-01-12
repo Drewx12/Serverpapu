@@ -892,3 +892,14 @@
 [12Jan2025 03:22:05.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin33[/127.131.248.169:44925] logged in with entity id 43596 at (-234.76249998807907, 62.0625, -495.18500515316015)
 [12Jan2025 03:22:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 joined the game
 [12Jan2025 03:22:05.310] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Pilin33'.
+[12Jan2025 03:22:59.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin33 lost connection: Disconnected
+[12Jan2025 03:22:59.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 left the game
+[12Jan2025 03:23:37.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[12Jan2025 03:23:37.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[12Jan2025 03:24:00.695] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3aa74459
+[12Jan2025 03:24:00.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHeist_xD[/127.207.111.218:54901] logged in with entity id 44002 at (-192.14565766049026, 66.0, -468.2715070788805)
+[12Jan2025 03:24:00.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD joined the game
+[12Jan2025 03:24:00.767] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'TheHeist_xD'.
+[12Jan2025 03:26:20.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD has made the advancement [Sweet Dreams]
+[12Jan2025 03:28:44.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Man From The Fog
+[12Jan2025 03:30:17.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=62, z=-506} BlockPos{x=-238, y=62, z=-507}

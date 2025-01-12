@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-12 03:26:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-12 02:16:42 +0000"
@@ -959,6 +965,12 @@
   "cfm:recipes/cfm/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-12 02:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-12 03:26:24 +0000"
     },
     "done": true
   },
