@@ -1670,7 +1670,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dripstone_caves": "2025-01-12 01:48:20 +0000",
-      "minecraft:flower_forest": "2025-01-12 01:34:41 +0000"
+      "minecraft:flower_forest": "2025-01-12 01:34:41 +0000",
+      "minecraft:meadow": "2025-01-12 02:00:21 +0000"
     },
     "done": false
   },

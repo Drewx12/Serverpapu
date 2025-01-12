@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-12 02:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-01-12 01:40:39 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-01-12 01:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-12 02:07:31 +0000"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-12 02:07:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-01-12 01:44:44 +0000"
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-12 02:03:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-01-12 01:34:18 +0000"
@@ -238,6 +262,15 @@
       "has_iron_ingot": "2025-01-12 01:44:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-12 02:07:03 +0000",
+      "baked_potato": "2025-01-12 02:02:07 +0000",
+      "bread": "2025-01-12 01:59:38 +0000",
+      "carrot": "2025-01-12 02:04:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -359,9 +392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-12 02:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-12 01:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-12 02:07:27 +0000"
     },
     "done": true
   },
@@ -443,6 +488,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-12 02:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-12 01:34:18 +0000"
@@ -464,6 +515,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-12 01:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-12 01:59:38 +0000"
     },
     "done": true
   },
@@ -563,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-12 02:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-12 01:36:47 +0000"
@@ -589,6 +652,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-01-12 02:08:12 +0000",
       "minecraft:zombie": "2025-01-12 01:51:16 +0000"
     },
     "done": false
@@ -620,6 +684,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-12 01:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-12 02:00:32 +0000"
     },
     "done": true
   },
@@ -707,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-12 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-01-12 01:56:18 +0000"
@@ -737,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-12 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-12 01:34:31 +0000"
@@ -761,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-12 02:03:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-12 01:45:52 +0000"
@@ -776,6 +864,12 @@
   "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-12 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-12 02:07:31 +0000"
     },
     "done": true
   },
@@ -953,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-12 02:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-12 01:35:48 +0000"
@@ -974,6 +1074,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-01-12 01:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-12 02:00:32 +0000"
     },
     "done": true
   },
@@ -1007,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-12 02:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-12 01:35:48 +0000"
@@ -1028,6 +1140,12 @@
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-01-12 01:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-12 02:00:32 +0000"
     },
     "done": true
   },
@@ -1114,7 +1232,8 @@
       "minecraft:sunflower_plains": "2025-01-12 01:53:24 +0000",
       "minecraft:river": "2025-01-12 01:49:23 +0000",
       "minecraft:dripstone_caves": "2025-01-12 01:46:39 +0000",
-      "minecraft:flower_forest": "2025-01-12 01:33:58 +0000"
+      "minecraft:flower_forest": "2025-01-12 01:33:58 +0000",
+      "minecraft:plains": "2025-01-12 02:02:38 +0000"
     },
     "done": false
   },
@@ -1172,6 +1291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-12 02:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-12 01:38:45 +0000"
@@ -1211,6 +1336,12 @@
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2025-01-12 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-12 01:59:33 +0000"
     },
     "done": true
   },
@@ -1271,6 +1402,12 @@
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2025-01-12 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-12 02:03:31 +0000"
     },
     "done": true
   },
@@ -1337,6 +1474,12 @@
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2025-01-12 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-12 02:02:26 +0000"
     },
     "done": true
   },

@@ -720,3 +720,19 @@
 [12Jan2025 02:00:21.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Isn't It Iron Pick]
 [12Jan2025 02:00:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Isn't It Iron Pick]
 [12Jan2025 02:00:45.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD has made the advancement [Acquire Hardware]
+[12Jan2025 02:01:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD has made the advancement [Isn't It Iron Pick]
+[12Jan2025 02:04:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Diamonds!]
+[12Jan2025 02:05:19.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Sweet Dreams]
+[12Jan2025 02:06:55.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 was shot by Skeleton
+[12Jan2025 02:06:58.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD has made the advancement [Diamonds!]
+[12Jan2025 02:07:48.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD has made the advancement [Cover Me with Diamonds]
+[12Jan2025 02:08:32.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[12Jan2025 02:08:32.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[12Jan2025 02:08:44.590] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@556c4962
+[12Jan2025 02:08:44.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:41727] logged in with entity id 15483 at (-72.25003757285303, 71.0, -17.96661144499152)
+[12Jan2025 02:08:44.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[12Jan2025 02:08:44.726] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[12Jan2025 02:09:36.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee moved too quickly! -5.5348030512305115,-0.9986640208878583,-8.389028329859784
+[12Jan2025 02:10:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee has made the advancement [Monster Hunter]
+[12Jan2025 02:10:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> -250 -480
+[12Jan2025 02:10:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has reached the goal [Feelingwatched]
