@@ -649,15 +649,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/iron_mine": {
-    "criteria": {
-      "has_mine": "2025-01-12 02:55:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-12 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-01-12 02:55:11 +0000"
     },
     "done": true
   },
@@ -1027,15 +1027,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sand_mine": {
-    "criteria": {
-      "has_mine": "2025-01-12 02:55:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-12 02:53:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-01-12 02:55:11 +0000"
     },
     "done": true
   },

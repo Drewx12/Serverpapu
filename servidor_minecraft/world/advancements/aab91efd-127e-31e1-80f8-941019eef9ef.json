@@ -2381,7 +2381,8 @@
     "criteria": {
       "sweet_berries": "2025-01-12 02:51:33 +0000",
       "cooked_beef": "2025-01-12 02:13:09 +0000",
-      "beef": "2025-01-12 02:09:49 +0000"
+      "beef": "2025-01-12 02:09:49 +0000",
+      "apple": "2025-01-12 03:12:48 +0000"
     },
     "done": false
   },
@@ -3444,6 +3445,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-01-12 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2025-01-12 03:12:03 +0000"
     },
     "done": true
   },
