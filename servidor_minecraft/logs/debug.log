@@ -10049,3 +10049,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jan2025 04:50:43.757] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-282, y=64, z=-542}) doesn't have enough leaves around top most log
 [12Jan2025 04:51:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Ice Bucket Challenge]
 [12Jan2025 04:51:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Ice Bucket Challenge]
+[12Jan2025 04:53:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Hot Stuff]
+[12Jan2025 04:53:34.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 04:53:34.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 04:53:50.580] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-282, y=64, z=-550}) doesn't have enough leaves around top most log
+[12Jan2025 04:54:03.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [Hot Stuff]
+[12Jan2025 04:55:55.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [We Need to Go Deeper]
+[12Jan2025 04:56:00.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! 10.240908237875146,0.0,-0.3569672238352837
+[12Jan2025 04:56:00.192] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736657755188
+[12Jan2025 04:56:00.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8187ms or 163 ticks behind
+[12Jan2025 04:56:00.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 moved too quickly! 8.309360243502567,-5.878703159460798,1.136980407862211
+[12Jan2025 04:56:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [We Need to Go Deeper]
+[12Jan2025 04:56:29.662] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736657789630
+[12Jan2025 04:56:50.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [We Need to Go Deeper]
+[12Jan2025 04:56:51.220] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736657811091
+[12Jan2025 04:56:56.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Not Today, Thank You]
+[12Jan2025 04:58:42.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 04:58:42.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 05:01:14.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 was slain by Piglin
+[12Jan2025 05:01:19.169] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736658079164
+[12Jan2025 05:01:30.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[12Jan2025 05:01:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[12Jan2025 05:01:47.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa was slain by Piglin
+[12Jan2025 05:01:49.118] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736658109083
+[12Jan2025 05:02:42.182] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736658162181
+[12Jan2025 05:02:45.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Timed out
+[12Jan2025 05:02:45.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
