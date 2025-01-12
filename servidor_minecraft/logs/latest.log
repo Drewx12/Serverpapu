@@ -907,3 +907,7 @@
 [12Jan2025 03:37:11.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
 [12Jan2025 03:38:16.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHeist_xD lost connection: Disconnected
 [12Jan2025 03:38:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD left the game
+[12Jan2025 03:59:48.045] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@764215d0
+[12Jan2025 03:59:48.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:55845] logged in with entity id 50044 at (-256.59071382570926, 70.0, -457.28508623374995)
+[12Jan2025 03:59:48.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[12Jan2025 03:59:48.159] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
