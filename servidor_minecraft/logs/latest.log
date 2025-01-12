@@ -832,3 +832,33 @@
 [12Jan2025 03:00:21.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:44235] logged in with entity id 35656 at (10.5, 64.0, -6.5)
 [12Jan2025 03:00:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
 [12Jan2025 03:00:21.453] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
+[12Jan2025 03:02:01.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee fell from a high place
+[12Jan2025 03:02:49.700] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f6d59e
+[12Jan2025 03:02:49.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHeist_xD[/127.207.111.218:39381] logged in with entity id 37302 at (-249.87018051878252, 63.0, -429.30000001192093)
+[12Jan2025 03:02:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD joined the game
+[12Jan2025 03:02:49.792] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'TheHeist_xD'.
+[12Jan2025 03:03:21.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHeist_xD> si c
+[12Jan2025 03:03:31.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHeist_xD> si.
+[12Jan2025 03:04:03.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee blew up
+[12Jan2025 03:04:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 blew up
+[12Jan2025 03:04:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 blew up
+[12Jan2025 03:05:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 fell from a high place
+[12Jan2025 03:06:16.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD has made the advancement [A Seedy Place]
+[12Jan2025 03:06:30.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee has made the advancement [Sweet Dreams]
+[12Jan2025 03:06:46.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by mateomiuR14
+[12Jan2025 03:09:33.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD has reached the goal [Feelingwatched]
+[12Jan2025 03:09:51.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWasa12 lost connection: Disconnected
+[12Jan2025 03:09:51.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
+[12Jan2025 03:10:01.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Disconnected
+[12Jan2025 03:10:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[12Jan2025 03:10:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Man From The Fog
+[12Jan2025 03:10:13.447] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ac55423
+[12Jan2025 03:10:13.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:43769] logged in with entity id 40363 at (-207.97572573051426, 63.0, -487.1224442543153)
+[12Jan2025 03:10:13.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[12Jan2025 03:10:13.555] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[12Jan2025 03:10:22.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d47bc67
+[12Jan2025 03:10:22.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:40373] logged in with entity id 40400 at (-208.16033817513318, 64.23593971399163, -489.4214125689744)
+[12Jan2025 03:10:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[12Jan2025 03:10:22.609] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[12Jan2025 03:10:43.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHeist_xD lost connection: Disconnected
+[12Jan2025 03:10:43.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD left the game
