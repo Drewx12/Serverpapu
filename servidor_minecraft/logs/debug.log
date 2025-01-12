@@ -8841,3 +8841,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jan2025 03:28:44.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by Man From The Fog
 [12Jan2025 03:28:47.171] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736652527171
 [12Jan2025 03:30:17.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=62, z=-506} BlockPos{x=-238, y=62, z=-507}
+[12Jan2025 03:33:34.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 03:33:34.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 03:37:11.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[12Jan2025 03:37:11.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[12Jan2025 03:38:16.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHeist_xD lost connection: Disconnected
+[12Jan2025 03:38:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHeist_xD left the game
+[12Jan2025 03:38:34.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 03:38:34.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
