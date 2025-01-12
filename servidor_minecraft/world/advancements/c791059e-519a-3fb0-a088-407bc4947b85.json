@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-12 04:48:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-12 02:24:39 +0000"
@@ -839,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-01-12 02:39:18 +0000"
@@ -1073,6 +1085,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-12 01:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
     },
     "done": true
   },
@@ -1673,6 +1691,12 @@
   "create:recipes/create.palettes/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2025-01-12 02:43:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-12 04:48:12 +0000"
     },
     "done": true
   },
@@ -2620,6 +2644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2025-01-12 01:33:57 +0000"
@@ -2641,6 +2671,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-12 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
     },
     "done": true
   },
@@ -3160,6 +3196,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-12 04:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-01-12 01:37:11 +0000"
@@ -3274,15 +3316,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-01-12 04:40:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-01-12 04:09:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-12 04:40:18 +0000"
     },
     "done": true
   },
@@ -3700,6 +3742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_black_picket_fence": {
     "criteria": {
       "has_dye": "2025-01-12 04:09:01 +0000"
@@ -3835,6 +3883,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-01-12 02:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
     },
     "done": true
   },
@@ -4084,6 +4138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-12 01:39:00 +0000"
@@ -4114,6 +4174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-12 04:13:09 +0000"
@@ -4129,6 +4195,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-01-12 01:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-12 04:48:12 +0000"
     },
     "done": true
   },

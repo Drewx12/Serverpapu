@@ -958,3 +958,14 @@
 [12Jan2025 04:42:50.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:57023] logged in with entity id 62887 at (-234.78763981568423, 63.0, -465.05682365930676)
 [12Jan2025 04:42:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
 [12Jan2025 04:42:50.575] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[12Jan2025 04:42:54.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateomiuR14 lost connection: Disconnected
+[12Jan2025 04:42:54.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 left the game
+[12Jan2025 04:43:11.445] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ac75f08
+[12Jan2025 04:43:11.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:35281] logged in with entity id 62928 at (-234.812857955645, 63.0, -465.1288135289126)
+[12Jan2025 04:43:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
+[12Jan2025 04:43:11.534] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[12Jan2025 04:48:16.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [What a Deal!]
+[12Jan2025 04:50:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [Ice Bucket Challenge]
+[12Jan2025 04:50:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Diamonds!]
+[12Jan2025 04:51:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Ice Bucket Challenge]
+[12Jan2025 04:51:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 has made the advancement [Ice Bucket Challenge]
