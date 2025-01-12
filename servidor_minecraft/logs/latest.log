@@ -991,3 +991,4 @@
 [12Jan2025 05:10:16.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateomiuR14[/127.242.229.50:57773] logged in with entity id 69346 at (-273.5, 70.5625, -453.5)
 [12Jan2025 05:10:16.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateomiuR14 joined the game
 [12Jan2025 05:10:16.134] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'mateomiuR14'.
+[12Jan2025 05:13:52.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=64, z=-598} BlockPos{x=-239, y=62, z=-599}
