@@ -911,3 +911,19 @@
 [12Jan2025 03:59:48.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:55845] logged in with entity id 50044 at (-256.59071382570926, 70.0, -457.28508623374995)
 [12Jan2025 03:59:48.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
 [12Jan2025 03:59:48.159] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[12Jan2025 04:06:04.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43db924f
+[12Jan2025 04:06:04.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAMshinoyasa[/127.91.170.118:60997] logged in with entity id 50908 at (9.5, 65.0, 10.5)
+[12Jan2025 04:06:04.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa joined the game
+[12Jan2025 04:06:04.994] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'IAMshinoyasa'.
+[12Jan2025 04:06:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAMshinoyasa> oe ve y mis cosas q pd
+[12Jan2025 04:08:21.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Cover Me with Diamonds]
+[12Jan2025 04:08:43.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Isn't It Iron Pick]
+[12Jan2025 04:11:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Sweet Dreams]
+[12Jan2025 04:12:13.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 has made the advancement [Sweet Dreams]
+[12Jan2025 04:13:25.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Monster Hunter]
+[12Jan2025 04:17:15.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAMshinoyasa moved too quickly! -0.3351191650054943,-1.9031272476744974,-10.071623068824408
+[12Jan2025 04:17:26.743] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f1ffc91
+[12Jan2025 04:17:46.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Stone Age]
+[12Jan2025 04:22:22.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAMshinoyasa has made the advancement [Acquire Hardware]
+[12Jan2025 04:23:12.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8100, l='ServerLevel[world]', x=-259.59, y=63.00, z=-534.21] died, message: 'Farmer was slain by MrWasa12'
+[12Jan2025 04:29:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWasa12> -251
