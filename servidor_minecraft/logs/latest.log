@@ -819,3 +819,16 @@
 [12Jan2025 02:45:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 left the game
 [12Jan2025 02:46:02.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 has made the advancement [Sweet Dreams]
 [12Jan2025 02:49:21.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee was slain by mateomiuR14
+[12Jan2025 02:52:59.426] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@450ef059
+[12Jan2025 02:52:59.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWasa12[/127.216.186.123:42837] logged in with entity id 32909 at (-260.44950635445315, 64.0, -457.7273499045483)
+[12Jan2025 02:52:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWasa12 joined the game
+[12Jan2025 02:52:59.531] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'MrWasa12'.
+[12Jan2025 02:56:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin33 blew up
+[12Jan2025 02:56:14.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee blew up
+[12Jan2025 02:58:55.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee blew up
+[12Jan2025 02:59:04.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JayJayCbee lost connection: Disconnected
+[12Jan2025 02:59:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee left the game
+[12Jan2025 03:00:21.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ad1397e
+[12Jan2025 03:00:21.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JayJayCbee[/127.23.28.90:44235] logged in with entity id 35656 at (10.5, 64.0, -6.5)
+[12Jan2025 03:00:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JayJayCbee joined the game
+[12Jan2025 03:00:21.453] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'JayJayCbee'.
